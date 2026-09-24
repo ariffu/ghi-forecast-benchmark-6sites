@@ -1,0 +1,22 @@
+# Reproducible environment for ghi-forecast-benchmark-6sites.
+# Pinned versions are the ones recorded in HANDOFF_Rerun_Hourly_6Situs (2026-09-22).
+# numpy/pandas/scikit-learn/scipy filled from `python -m pip freeze` in the Python 3.14 rerun env (2026-09-24).
+name: ghi-benchmark-6sites
+channels:
+  - conda-forge
+dependencies:
+  - python=3.14
+  - pip
+  - pip:
+      - duckdb==1.5.5
+      - lightgbm==4.7.*
+      - catboost==1.2.10
+      - xgboost==3.4.1
+      - torch==2.13.*        # CPU build was used
+      - matplotlib==3.11.*
+      - numpy==2.5.1
+      - pandas==3.0.5
+      - scikit-learn==1.9.0
+      - scipy==1.18.0
+      # shap and pyarrow were NOT installed in the rerun environment:
+      # SHAP values are computed via LightGBM pred_contrib, and DuckDB reads Parquet natively.

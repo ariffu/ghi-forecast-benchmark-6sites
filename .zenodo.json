@@ -1,0 +1,41 @@
+{
+  "title": "ghi-forecast-benchmark-6sites: Hourly-ahead GHI forecasting benchmark scripts and per-site results for six humid tropical Indonesian stations",
+  "upload_type": "software",
+  "description": "<p>Scripts and aggregate per-site results supporting the manuscript <em>Hourly-ahead global horizontal irradiance forecasting in the humid tropical Maritime Continent: satellite cloud optical properties dominate, surface meteorology is redundant, and model families converge on a predictability limit</em>.</p><p>The package covers six BMKG climatological stations in Indonesia (Banten, Bengkulu, Jambi, West Kalimantan, Yogyakarta, Semarang), with harmonised 10-min data from 2022 to 2025 (train 2022–2023, validation 2024, test 2025). It includes data extraction and sanity checks, point and hourly-mean baselines, walk-forward validation, feature ranking (SHAP), source-level ablation with bootstrap significance (Himawari-8/9 cloud optical properties, SYNOP cloud, surface meteorology), a head-to-head of eight machine-learning and deep-learning architectures replicated at all sites, evaluation-protocol sensitivity, probabilistic forecasting (PICP, PINAW, CRPS, PIT) and conformalized quantile regression with a split calibration set.</p><p>Raw station data, DuckDB databases, feature tables and trained models are not included because of size and data-sharing policy. BMKG station data are available from the corresponding author on reasonable request; Himawari-8/9 cloud products are available through the JAXA P-Tree system.</p>",
+  "creators": [
+    {
+      "name": "Ariffudin",
+      "affiliation": "Department of Physics, Faculty of Mathematics and Science, Universitas Indonesia, Depok, Indonesia",
+      "orcid": "0009-0008-3244-6054"
+    },
+    {
+      "name": "Sopaheluwakan, Ardhasena",
+      "affiliation": "Agency for Meteorology, Climatology, and Geophysics (BMKG), Jakarta, Indonesia",
+      "orcid": "0000-0002-4532-854X"
+    },
+    {
+      "name": "Sudarmaji, Arief",
+      "affiliation": "Department of Physics, Faculty of Mathematics and Science, Universitas Indonesia, Depok, Indonesia",
+      "orcid": "0000-0002-0086-6758"
+    },
+    {
+      "name": "Pawiro, Supriyanto Ardjo",
+      "affiliation": "Department of Physics, Faculty of Mathematics and Science, Universitas Indonesia, Depok, Indonesia",
+      "orcid": "0000-0002-0028-1442"
+    }
+  ],
+  "keywords": [
+    "global horizontal irradiance",
+    "solar forecasting",
+    "hourly-ahead forecasting",
+    "Himawari-8/9 cloud properties",
+    "humid tropics",
+    "Maritime Continent",
+    "Indonesia",
+    "machine learning",
+    "conformal prediction"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng"
+}

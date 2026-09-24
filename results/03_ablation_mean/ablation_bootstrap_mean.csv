@@ -1,0 +1,6 @@
+pair,label,dR2,CI_lo,CI_hi,signif
+T1+CLP - T1 core,efek CLP,0.0199,0.0182,0.0216,YA
+T1+CLP+AWS_meteo - T1+CLP,efek AWS meteo,0.0004,-0.0002,0.001,tidak
+T1+CLP+SYNOP_cloud - T1+CLP,efek SYNOP cloud,-0.0013,-0.0017,-0.0009,YA
+T1+CLP - T1+AWS_meteo,CLP vs AWS,0.0191,0.0175,0.0208,YA
+FULL - T1+CLP,sisa fitur,0.0013,0.0007,0.002,YA

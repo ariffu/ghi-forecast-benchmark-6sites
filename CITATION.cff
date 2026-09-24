@@ -1,0 +1,50 @@
+cff-version: 1.2.0
+message: >-
+  If you use these scripts or the per-site results they contain, please
+  cite them using the metadata below. A citation for the accompanying
+  journal paper will be added here once it is published.
+type: software
+title: >-
+  ghi-forecast-benchmark-6sites: Hourly-ahead GHI forecasting benchmark
+  scripts and per-site results for six humid tropical Indonesian stations
+  (Banten, Bengkulu, Jambi, West Kalimantan, Yogyakarta, Semarang)
+authors:
+  - family-names: Ariffudin
+    affiliation: >-
+      Department of Physics, Faculty of Mathematics and Science,
+      Universitas Indonesia, Depok, Indonesia
+    orcid: "https://orcid.org/0009-0008-3244-6054"
+  - given-names: Ardhasena
+    family-names: Sopaheluwakan
+    affiliation: >-
+      Agency for Meteorology, Climatology, and Geophysics (BMKG),
+      Jakarta, Indonesia
+    orcid: "https://orcid.org/0000-0002-4532-854X"
+  - given-names: Arief
+    family-names: Sudarmaji
+    affiliation: >-
+      Department of Physics, Faculty of Mathematics and Science,
+      Universitas Indonesia, Depok, Indonesia
+    orcid: "https://orcid.org/0000-0002-0086-6758"
+  - given-names: Supriyanto Ardjo
+    family-names: Pawiro
+    affiliation: >-
+      Department of Physics, Faculty of Mathematics and Science,
+      Universitas Indonesia, Depok, Indonesia
+    orcid: "https://orcid.org/0000-0002-0028-1442"
+version: 1.0.0
+date-released: "2026-09-24"   # ganti dengan tanggal Release v1.0.0
+# doi: 10.5281/zenodo.XXXXXXX   # isi CONCEPT DOI setelah Zenodo membuat v1.0.0 (lalu rilis v1.0.1)
+url: "https://github.com/ariffu/ghi-forecast-benchmark-6sites"
+repository-code: "https://github.com/ariffu/ghi-forecast-benchmark-6sites"
+license: CC-BY-4.0
+keywords:
+  - global horizontal irradiance
+  - solar forecasting
+  - hourly-ahead forecasting
+  - Himawari-8/9 cloud properties
+  - humid tropics
+  - Maritime Continent
+  - Indonesia
+  - machine learning
+  - conformal prediction
