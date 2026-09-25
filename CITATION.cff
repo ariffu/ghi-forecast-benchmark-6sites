@@ -7,7 +7,7 @@ type: software
 title: >-
   ghi-forecast-benchmark-6sites: Hourly-ahead GHI forecasting benchmark
   scripts and per-site results for six humid tropical Indonesian stations
-  (Banten, Bengkulu, Jambi, West Kalimantan, Yogyakarta, Semarang)
+  (Banten, Bengkulu, Jambi, West Kalimantan, Yogyakarta, Central Java)
 authors:
   - family-names: Ariffudin
     affiliation: >-
@@ -32,9 +32,9 @@ authors:
       Department of Physics, Faculty of Mathematics and Science,
       Universitas Indonesia, Depok, Indonesia
     orcid: "https://orcid.org/0000-0002-0028-1442"
-version: 1.0.0
-date-released: "2026-09-24"   # ganti dengan tanggal Release v1.0.0
-# doi: 10.5281/zenodo.XXXXXXX   # isi CONCEPT DOI setelah Zenodo membuat v1.0.0 (lalu rilis v1.0.1)
+version: 1.0.1
+date-released: "2026-09-25"
+doi: 10.5281/zenodo.22929571
 url: "https://github.com/ariffu/ghi-forecast-benchmark-6sites"
 repository-code: "https://github.com/ariffu/ghi-forecast-benchmark-6sites"
 license: CC-BY-4.0
