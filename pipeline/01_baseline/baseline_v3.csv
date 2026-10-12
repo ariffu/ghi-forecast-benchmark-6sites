@@ -1,0 +1,7 @@
+model,target,R2,MAE,RMSE,skill
+smart-persistence,point,0.6943,110.9,174.6,0.0
+LightGBM residual,point,0.8139,92.6,136.3,0.2198
+CatBoost direct,point,0.8161,92.5,135.5,0.2243
+smart-persistence,mean,0.8348,76.2,120.6,0.0
+LightGBM residual,mean,0.9093,59.8,89.4,0.2589
+CatBoost direct,mean,0.9091,60.4,89.5,0.2583

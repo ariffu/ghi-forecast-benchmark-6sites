@@ -1,0 +1,8 @@
+model,dR2,CI_lo,CI_hi,signif
+CatBoost,-0.0005,-0.0011,0.0001,tidak
+XGBoost,-0.0013,-0.0018,-0.0009,YA
+MLP,-0.0019,-0.0029,-0.0009,YA
+Transf_hybrid,-0.004,-0.0051,-0.0029,YA
+LSTM_hybrid,-0.005,-0.0062,-0.0037,YA
+Transformer,-0.0052,-0.0065,-0.0039,YA
+LSTM,-0.0058,-0.0072,-0.0044,YA

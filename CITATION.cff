@@ -5,7 +5,7 @@ message: >-
   journal paper will be added here once it is published.
 type: software
 title: >-
-  ghi-forecast-benchmark-6sites: Hourly-ahead GHI forecasting benchmark
+  ghi-forecast-benchmark-6sites: Hour-ahead GHI forecasting benchmark
   scripts and per-site results for six humid tropical Indonesian stations
   (Banten, Bengkulu, Jambi, West Kalimantan, Yogyakarta, Central Java)
 authors:
@@ -32,8 +32,8 @@ authors:
       Department of Physics, Faculty of Mathematics and Science,
       Universitas Indonesia, Depok, Indonesia
     orcid: "https://orcid.org/0000-0002-0028-1442"
-version: 1.0.1
-date-released: "2026-09-25"
+version: 2.0.0
+date-released: "2026-10-12"
 doi: 10.5281/zenodo.22929571
 url: "https://github.com/ariffu/ghi-forecast-benchmark-6sites"
 repository-code: "https://github.com/ariffu/ghi-forecast-benchmark-6sites"
@@ -41,10 +41,10 @@ license: CC-BY-4.0
 keywords:
   - global horizontal irradiance
   - solar forecasting
-  - hourly-ahead forecasting
+  - hour-ahead forecasting
   - Himawari-8/9 cloud properties
   - humid tropics
   - Maritime Continent
   - Indonesia
   - machine learning
-  - conformal prediction
+  - source ablation

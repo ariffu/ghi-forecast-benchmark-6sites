@@ -1,0 +1,22 @@
+{
+ "K1_lolos": {
+  "P2": true,
+  "P1": true
+ },
+ "terpilih": "P2",
+ "K3": {
+  "P1": {
+   "CLP_sig_6": true,
+   "AWS_CLP_le_001": true,
+   "SYNC_le_0002": true
+  },
+  "P2": {
+   "CLP_sig_6": true,
+   "AWS_CLP_le_001": true,
+   "SYNC_le_0002": true
+  }
+ },
+ "durasi_s": 422,
+ "clearsky": "IP",
+ "dibuat": "2026-10-12 02:09"
+}

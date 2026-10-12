@@ -6,6 +6,7 @@ __pycache__/
 *.db.bak
 *.parquet
 *.npz
+*.npy
 *.pkl
 *.joblib
 *.cbm
@@ -15,7 +16,16 @@ __pycache__/
 *.ckpt
 *.zip
 *.7z
+*.log
+*.done
 log*.txt
 .env
 .claude/
 .obsidian/
+pipeline/00_data/*.parquet
+pipeline/00_data_rawfill/
+pipeline/00_clearsky/
+pipeline/catboost_info/
+pipeline/logs/
+pipeline/plots/
+pipeline/_arsip*/

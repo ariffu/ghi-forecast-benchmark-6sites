@@ -1,0 +1,7 @@
+site,E2_gain_share_SPAT,E3_importance_share_SPAT,E3_best_SPAT,E3_best_SPAT_rank,E3_cloud_frac_rank
+banten,0.112,0.0651,clps_cloud_frac,9,9
+bengkulu,0.1053,0.0577,clps_cot_min,8,10
+jambi,0.0751,0.0558,clps_cot_min,7,18
+jogja,0.0919,0.0654,clps_cloud_frac,5,5
+kalbar,0.0822,0.0591,clps_cloud_frac,9,9
+semarang,0.0937,0.055,clps_cot_min,12,14

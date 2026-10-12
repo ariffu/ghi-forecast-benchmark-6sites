@@ -1,6 +1,6 @@
-# Reproducible environment for ghi-forecast-benchmark-6sites.
-# Pinned versions are the ones recorded in HANDOFF_Rerun_Hourly_6Situs (2026-09-22).
-# numpy/pandas/scikit-learn/scipy filled from `python -m pip freeze` in the Python 3.14 rerun env (2026-09-24).
+# Reproducible environment for ghi-forecast-benchmark-6sites v2.0.0.
+# Versions are those recorded by pipeline/run_all.py (logs/environment.json) for the final rerun of 2026-10-12,
+# plus pvlib (Ineichen–Perez clear-sky model, stage 55).
 name: ghi-benchmark-6sites
 channels:
   - conda-forge
@@ -9,14 +9,15 @@ dependencies:
   - pip
   - pip:
       - duckdb==1.5.5
-      - lightgbm==4.7.*
+      - lightgbm==4.7.0
       - catboost==1.2.10
       - xgboost==3.4.1
-      - torch==2.13.*        # CPU build was used
-      - matplotlib==3.11.*
+      - torch==2.13.0        # CPU build was used
+      - matplotlib==3.11.1
       - numpy==2.5.1
       - pandas==3.0.5
       - scikit-learn==1.9.0
       - scipy==1.18.0
-      # shap and pyarrow were NOT installed in the rerun environment:
-      # SHAP values are computed via LightGBM pred_contrib, and DuckDB reads Parquet natively.
+      - pvlib==0.15.2
+      # shap and pyarrow are NOT required: SHAP values are computed with LightGBM pred_contrib,
+      # and DuckDB reads/writes Parquet natively.
