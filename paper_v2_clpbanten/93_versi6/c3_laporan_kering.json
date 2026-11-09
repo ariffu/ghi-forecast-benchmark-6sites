@@ -1,0 +1,26 @@
+{
+ "00_data": {
+  "slot_diganti": 62975,
+  "r_cot_lawan_kotak_lama": 0.955,
+  "kosong_siang_lama": 0.0602,
+  "kosong_siang_baru": 0.0642,
+  "isi_menurut_elevasi": {
+   "(5.0, 7.5]": 0.0,
+   "(7.5, 10.0]": 0.352,
+   "(10.0, 15.0]": 0.856,
+   "(15.0, 90.0]": 0.996
+  }
+ },
+ "00_data_rawfill": {
+  "slot_diganti": 62975,
+  "r_cot_lawan_kotak_lama": 0.952,
+  "kosong_siang_lama": 0.0,
+  "kosong_siang_baru": 0.0,
+  "isi_menurut_elevasi": {
+   "(5.0, 7.5]": 1.0,
+   "(7.5, 10.0]": 1.0,
+   "(10.0, 15.0]": 1.0,
+   "(15.0, 90.0]": 1.0
+  }
+ }
+}

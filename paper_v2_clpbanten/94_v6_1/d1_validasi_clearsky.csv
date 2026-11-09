@@ -1,0 +1,13 @@
+stasiun,clear_sky,slot_cerah,kc_median_cerah,pagi−sore el10-20,pagi−sore el20-40,pagi−sore el40-60
+banten,"lama (titik t, dim_site, ketinggian pvlib)",5921,0.945,0.0382,0.0264,0.005
+banten,"baru (interval, metadata)",5777,0.933,,-0.0014,-0.0162
+bengkulu,"lama (titik t, dim_site, ketinggian pvlib)",12362,0.992,,0.0058,0.0093
+bengkulu,"baru (interval, metadata)",12383,0.995,0.0044,-0.0473,-0.022
+jambi,"lama (titik t, dim_site, ketinggian pvlib)",1622,1.067,,0.0361,0.0036
+jambi,"baru (interval, metadata)",1730,1.057,,-0.0138,-0.0322
+jogja,"lama (titik t, dim_site, ketinggian pvlib)",7190,0.969,0.0228,0.0413,0.0176
+jogja,"baru (interval, metadata)",7527,0.965,-0.002,-0.0093,-0.0094
+kalbar,"lama (titik t, dim_site, ketinggian pvlib)",9584,1.021,,0.041,0.0199
+kalbar,"baru (interval, metadata)",9609,1.023,-0.037,-0.0242,-0.0152
+semarang,"lama (titik t, dim_site, ketinggian pvlib)",17548,0.964,0.0265,0.0282,0.0129
+semarang,"baru (interval, metadata)",17677,0.957,-0.0022,-0.011,-0.0126

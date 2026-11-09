@@ -1,0 +1,52 @@
+{
+ "banten": {
+  "koreksi_0700": 0,
+  "mm_dibuang_0700": 0.0,
+  "kosong_total": 0,
+  "total_mm_lama": 10613.0,
+  "total_mm_baru": 10613.0
+ },
+ "bengkulu": {
+  "koreksi_0700": 3,
+  "mm_dibuang_0700": 14.4,
+  "kosong_total": 0,
+  "total_mm_lama": 11976.0,
+  "total_mm_baru": 11962.0
+ },
+ "jambi": {
+  "koreksi_0700": 2,
+  "mm_dibuang_0700": 8.4,
+  "kosong_total": 0,
+  "total_mm_lama": 9947.0,
+  "total_mm_baru": 9939.0
+ },
+ "jogja": {
+  "koreksi_0700": 1461,
+  "mm_dibuang_0700": 2037.7,
+  "isi_mundur_mm_lama": 1768.4,
+  "isi_maju_slot": 15844,
+  "isi_maju_mm": 1949.6,
+  "isi_maju_kosong": 3062,
+  "kosong_total": 3062,
+  "total_mm_lama": 9832.0,
+  "total_mm_baru": 7976.0
+ },
+ "kalbar": {
+  "koreksi_0700": 0,
+  "mm_dibuang_0700": 0.0,
+  "kosong_total": 0,
+  "total_mm_lama": 10784.0,
+  "total_mm_baru": 10784.0
+ },
+ "semarang": {
+  "koreksi_0700": 3,
+  "mm_dibuang_0700": 9.3,
+  "isi_mundur_mm_lama": 324.3,
+  "isi_maju_slot": 8140,
+  "isi_maju_mm": 260.0,
+  "isi_maju_kosong": 3231,
+  "kosong_total": 3231,
+  "total_mm_lama": 9215.0,
+  "total_mm_baru": 9142.0
+ }
+}

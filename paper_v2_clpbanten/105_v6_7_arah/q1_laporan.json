@@ -1,0 +1,44 @@
+{
+ "banten": {
+  "origin_tanpa_arah_pct": 11.1,
+  "calm": 8.72,
+  "kode0": 2.37,
+  "tahan_gt60": 0.01,
+  "sincos_isi": 0.9998
+ },
+ "bengkulu": {
+  "origin_tanpa_arah_pct": 2.96,
+  "calm": 2.88,
+  "kode0": 0.0,
+  "tahan_gt60": 0.08,
+  "sincos_isi": 1.0
+ },
+ "jambi": {
+  "origin_tanpa_arah_pct": 25.18,
+  "calm": 22.98,
+  "kode0": 2.19,
+  "tahan_gt60": 0.0,
+  "sincos_isi": 1.0
+ },
+ "jogja": {
+  "origin_tanpa_arah_pct": 6.36,
+  "calm": 6.31,
+  "kode0": 0.02,
+  "tahan_gt60": 0.03,
+  "sincos_isi": 0.9998
+ },
+ "kalbar": {
+  "origin_tanpa_arah_pct": 24.8,
+  "calm": 15.31,
+  "kode0": 0.0,
+  "tahan_gt60": 9.5,
+  "sincos_isi": 0.9999
+ },
+ "semarang": {
+  "origin_tanpa_arah_pct": 8.13,
+  "calm": 5.3,
+  "kode0": 0.11,
+  "tahan_gt60": 2.73,
+  "sincos_isi": 0.9998
+ }
+}

@@ -1,0 +1,7 @@
+site,alpha,RMSE_clim,RMSE_pers,RMSE_ref,RMSE_model,skill_pers,skill_cp
+banten,0.33,166.8,130.8,113.3,,,
+bengkulu,0.29,165.9,119.6,105.9,,,
+jambi,0.43,170.2,131.2,114.1,,,
+jogja,0.4,176.7,146.7,125.1,,,
+kalbar,0.35,185.0,135.6,120.4,,,
+semarang,0.28,174.9,113.9,104.0,,,

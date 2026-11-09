@@ -1,0 +1,302 @@
+{
+ "banten": {
+  "lat": [
+   -5.699999809265137,
+   -6.849999904632568
+  ],
+  "lon": [
+   106.19999694824219,
+   107.3499984741211
+  ],
+  "pusat_csv": [
+   -6.2615,
+   106.7508
+  ],
+  "grid": "11x11",
+  "total": 121,
+  "terbaik": [
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 1.0,
+    "cocok_count_mean": 0.4913
+   },
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 5,
+    "n": 1726,
+    "cocok_count": 0.3198,
+    "cocok_count_mean": 0.1448
+   },
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 0.3146,
+    "cocok_count_mean": 0.1437
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 0.2937,
+    "cocok_count_mean": 0.1425
+   }
+  ]
+ },
+ "bengkulu": {
+  "lat": [
+   -3.299999952316284,
+   -4.449999809265137
+  ],
+  "lon": [
+   101.75,
+   102.9000015258789
+  ],
+  "pusat_csv": [
+   -3.86,
+   102.31
+  ],
+  "grid": "11x11",
+  "total": 121,
+  "terbaik": [
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 1.0,
+    "cocok_count_mean": 0.4896
+   },
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 0.2827,
+    "cocok_count_mean": 0.1356
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 0.3053,
+    "cocok_count_mean": 0.1327
+   },
+   {
+    "geser_menit": 0,
+    "baris": 5,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 0.2793,
+    "cocok_count_mean": 0.1309
+   }
+  ]
+ },
+ "jambi": {
+  "lat": [
+   -1.0499999523162842,
+   -2.200000047683716
+  ],
+  "lon": [
+   102.9000015258789,
+   104.05000305175781
+  ],
+  "pusat_csv": [
+   -1.602,
+   103.485
+  ],
+  "grid": "11x11",
+  "total": 121,
+  "terbaik": [
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 1.0,
+    "cocok_count_mean": 0.4913
+   },
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 0.2949,
+    "cocok_count_mean": 0.1414
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 0.3302,
+    "cocok_count_mean": 0.1379
+   },
+   {
+    "geser_menit": 0,
+    "baris": 5,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 0.3216,
+    "cocok_count_mean": 0.1373
+   }
+  ]
+ },
+ "jogja": {
+  "lat": [
+   -7.150000095367432,
+   -8.300000190734863
+  ],
+  "lon": [
+   109.80000305175781,
+   110.94999694824219
+  ],
+  "pusat_csv": [
+   -7.731,
+   110.354
+  ],
+  "grid": "11x11",
+  "total": 121,
+  "terbaik": [
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 1.0,
+    "cocok_count_mean": 0.4988
+   },
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 0.2937,
+    "cocok_count_mean": 0.1454
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 0.3349,
+    "cocok_count_mean": 0.1425
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 5,
+    "n": 1726,
+    "cocok_count": 0.3708,
+    "cocok_count_mean": 0.1419
+   }
+  ]
+ },
+ "kalbar": {
+  "lat": [
+   0.6499999761581421,
+   -0.5
+  ],
+  "lon": [
+   108.5999984741211,
+   109.75
+  ],
+  "pusat_csv": [
+   0.075,
+   109.19
+  ],
+  "grid": "10x11",
+  "total": 110,
+  "terbaik": [
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 1.0,
+    "cocok_count_mean": 0.4907
+   },
+   {
+    "geser_menit": 0,
+    "baris": 6,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 0.3754,
+    "cocok_count_mean": 0.1506
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 0.4125,
+    "cocok_count_mean": 0.1414
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 8,
+    "n": 1726,
+    "cocok_count": 0.3969,
+    "cocok_count_mean": 0.139
+   }
+  ]
+ },
+ "semarang": {
+  "lat": [
+   -6.400000095367432,
+   -7.550000190734863
+  ],
+  "lon": [
+   109.80000305175781,
+   110.94999694824219
+  ],
+  "pusat_csv": [
+   -6.9847,
+   110.3806
+  ],
+  "grid": "11x11",
+  "total": 121,
+  "terbaik": [
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 7,
+    "n": 1726,
+    "cocok_count": 1.0,
+    "cocok_count_mean": 0.5122
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 8,
+    "n": 1726,
+    "cocok_count": 0.3285,
+    "cocok_count_mean": 0.1738
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 6,
+    "n": 1726,
+    "cocok_count": 0.3499,
+    "cocok_count_mean": 0.1721
+   },
+   {
+    "geser_menit": 0,
+    "baris": 7,
+    "kolom": 5,
+    "n": 1726,
+    "cocok_count": 0.2966,
+    "cocok_count_mean": 0.1657
+   }
+  ]
+ }
+}

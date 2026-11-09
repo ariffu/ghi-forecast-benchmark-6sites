@@ -1,0 +1,122 @@
+{
+ "banten": {
+  "pusat": [
+   -6.2615,
+   106.7508
+  ],
+  "grid": "11x11",
+  "hari_skala_ganda": 0,
+  "slot_berkas": 104899,
+  "slot_retrieval": 90508,
+  "00_data": {
+   "cot_sama_dengan_sebelumnya": 1.0,
+   "kini_kosong": 1,
+   "kini_berisi": 78
+  },
+  "00_data_rawfill": {
+   "cot_sama_dengan_sebelumnya": 1.0,
+   "kini_kosong": 0,
+   "kini_berisi": 14468
+  }
+ },
+ "bengkulu": {
+  "pusat": [
+   -3.86,
+   102.31
+  ],
+  "grid": "11x11",
+  "hari_skala_ganda": 0,
+  "slot_berkas": 104899,
+  "slot_retrieval": 91469,
+  "00_data": {
+   "cot_sama_dengan_sebelumnya": 0.9975,
+   "kini_kosong": 3026,
+   "kini_berisi": 1
+  },
+  "00_data_rawfill": {
+   "cot_sama_dengan_sebelumnya": 0.9284,
+   "kini_kosong": 105484,
+   "kini_berisi": 0
+  }
+ },
+ "jambi": {
+  "pusat": [
+   -1.602,
+   103.485
+  ],
+  "grid": "11x11",
+  "hari_skala_ganda": 0,
+  "slot_berkas": 104899,
+  "slot_retrieval": 91175,
+  "00_data": {
+   "cot_sama_dengan_sebelumnya": 0.004,
+   "kini_kosong": 2153,
+   "kini_berisi": 78
+  },
+  "00_data_rawfill": {
+   "cot_sama_dengan_sebelumnya": 0.1326,
+   "kini_kosong": 105484,
+   "kini_berisi": 0
+  }
+ },
+ "jogja": {
+  "pusat": [
+   -7.731,
+   110.354
+  ],
+  "grid": "11x11",
+  "hari_skala_ganda": 0,
+  "slot_berkas": 104899,
+  "slot_retrieval": 90992,
+  "00_data": {
+   "cot_sama_dengan_sebelumnya": 0.9997,
+   "kini_kosong": 3978,
+   "kini_berisi": 4
+  },
+  "00_data_rawfill": {
+   "cot_sama_dengan_sebelumnya": 0.9997,
+   "kini_kosong": 17037,
+   "kini_berisi": 0
+  }
+ },
+ "kalbar": {
+  "pusat": [
+   0.075,
+   109.19
+  ],
+  "grid": "10x11",
+  "hari_skala_ganda": 0,
+  "slot_berkas": 104899,
+  "slot_retrieval": 91329,
+  "00_data": {
+   "cot_sama_dengan_sebelumnya": 0.9961,
+   "kini_kosong": 2428,
+   "kini_berisi": 13
+  },
+  "00_data_rawfill": {
+   "cot_sama_dengan_sebelumnya": 0.9964,
+   "kini_kosong": 14032,
+   "kini_berisi": 15
+  }
+ },
+ "semarang": {
+  "pusat": [
+   -6.9847,
+   110.3806
+  ],
+  "grid": "11x11",
+  "hari_skala_ganda": 0,
+  "slot_berkas": 104898,
+  "slot_retrieval": 89987,
+  "00_data": {
+   "cot_sama_dengan_sebelumnya": 0.9966,
+   "kini_kosong": 5306,
+   "kini_berisi": 0
+  },
+  "00_data_rawfill": {
+   "cot_sama_dengan_sebelumnya": 0.9968,
+   "kini_kosong": 105485,
+   "kini_berisi": 0
+  }
+ }
+}

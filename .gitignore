@@ -22,10 +22,8 @@ log*.txt
 .env
 .claude/
 .obsidian/
-pipeline/00_data/*.parquet
-pipeline/00_data_rawfill/
-pipeline/00_clearsky/
-pipeline/catboost_info/
-pipeline/logs/
-pipeline/plots/
-pipeline/_arsip*/
+*.docx
+*.pptx
+**/catboost_info/
+**/preds/
+**/_arsip*/

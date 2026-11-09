@@ -1,0 +1,91 @@
+stasiun,cek,sama_pct,nan_beda
+banten,ghi_actual_h1 = GHI(t+60),100.0,0
+banten,ghi_actual_h6 = GHI(t+360),100.0,0
+banten,ghi_lag_10m = GHI(t−10),100.0,0
+banten,ghi_delta_60m,100.0,0
+banten,kt_lag_60m,100.0,0
+banten,kt_delta_10m,100.0,0
+banten,kt_roll_60m_mean,100.0,0
+banten,clear_sky_ghi_h1 = cs(t+60),100.0,0
+banten,clp_cot_lag_60m,100.0,0
+banten,clp_cot_delta_60m,100.0,0
+banten,clp_cot_roll_180m_mean,100.0,0
+banten,clp_cth_lag_60m,100.0,0
+banten,aws_rain_sum_180m,100.0,0
+banten,aws_temp_delta_60m,100.0,0
+banten,clp_cloud_present_int = COT≥1,100.0,0
+bengkulu,ghi_actual_h1 = GHI(t+60),100.0,0
+bengkulu,ghi_actual_h6 = GHI(t+360),100.0,0
+bengkulu,ghi_lag_10m = GHI(t−10),100.0,0
+bengkulu,ghi_delta_60m,100.0,0
+bengkulu,kt_lag_60m,100.0,0
+bengkulu,kt_delta_10m,100.0,0
+bengkulu,kt_roll_60m_mean,100.0,0
+bengkulu,clear_sky_ghi_h1 = cs(t+60),100.0,0
+bengkulu,clp_cot_lag_60m,100.0,0
+bengkulu,clp_cot_delta_60m,100.0,0
+bengkulu,clp_cot_roll_180m_mean,100.0,0
+bengkulu,clp_cth_lag_60m,100.0,0
+bengkulu,aws_rain_sum_180m,100.0,0
+bengkulu,aws_temp_delta_60m,100.0,0
+bengkulu,clp_cloud_present_int = COT≥1,100.0,0
+jambi,ghi_actual_h1 = GHI(t+60),100.0,0
+jambi,ghi_actual_h6 = GHI(t+360),100.0,0
+jambi,ghi_lag_10m = GHI(t−10),100.0,0
+jambi,ghi_delta_60m,100.0,0
+jambi,kt_lag_60m,100.0,0
+jambi,kt_delta_10m,100.0,0
+jambi,kt_roll_60m_mean,100.0,0
+jambi,clear_sky_ghi_h1 = cs(t+60),100.0,0
+jambi,clp_cot_lag_60m,100.0,0
+jambi,clp_cot_delta_60m,100.0,0
+jambi,clp_cot_roll_180m_mean,100.0,0
+jambi,clp_cth_lag_60m,100.0,0
+jambi,aws_rain_sum_180m,100.0,0
+jambi,aws_temp_delta_60m,100.0,0
+jambi,clp_cloud_present_int = COT≥1,100.0,0
+jogja,ghi_actual_h1 = GHI(t+60),100.0,0
+jogja,ghi_actual_h6 = GHI(t+360),100.0,0
+jogja,ghi_lag_10m = GHI(t−10),100.0,0
+jogja,ghi_delta_60m,100.0,0
+jogja,kt_lag_60m,100.0,0
+jogja,kt_delta_10m,100.0,0
+jogja,kt_roll_60m_mean,100.0,0
+jogja,clear_sky_ghi_h1 = cs(t+60),100.0,0
+jogja,clp_cot_lag_60m,100.0,0
+jogja,clp_cot_delta_60m,100.0,0
+jogja,clp_cot_roll_180m_mean,100.0,0
+jogja,clp_cth_lag_60m,100.0,0
+jogja,aws_rain_sum_180m,100.0,0
+jogja,aws_temp_delta_60m,100.0,0
+jogja,clp_cloud_present_int = COT≥1,100.0,0
+kalbar,ghi_actual_h1 = GHI(t+60),100.0,0
+kalbar,ghi_actual_h6 = GHI(t+360),100.0,0
+kalbar,ghi_lag_10m = GHI(t−10),100.0,0
+kalbar,ghi_delta_60m,100.0,0
+kalbar,kt_lag_60m,100.0,0
+kalbar,kt_delta_10m,100.0,0
+kalbar,kt_roll_60m_mean,100.0,0
+kalbar,clear_sky_ghi_h1 = cs(t+60),100.0,0
+kalbar,clp_cot_lag_60m,100.0,0
+kalbar,clp_cot_delta_60m,100.0,0
+kalbar,clp_cot_roll_180m_mean,100.0,0
+kalbar,clp_cth_lag_60m,100.0,0
+kalbar,aws_rain_sum_180m,100.0,0
+kalbar,aws_temp_delta_60m,100.0,0
+kalbar,clp_cloud_present_int = COT≥1,100.0,0
+semarang,ghi_actual_h1 = GHI(t+60),100.0,0
+semarang,ghi_actual_h6 = GHI(t+360),100.0,0
+semarang,ghi_lag_10m = GHI(t−10),100.0,0
+semarang,ghi_delta_60m,100.0,0
+semarang,kt_lag_60m,100.0,0
+semarang,kt_delta_10m,100.0,0
+semarang,kt_roll_60m_mean,100.0,0
+semarang,clear_sky_ghi_h1 = cs(t+60),100.0,0
+semarang,clp_cot_lag_60m,100.0,0
+semarang,clp_cot_delta_60m,100.0,0
+semarang,clp_cot_roll_180m_mean,100.0,0
+semarang,clp_cth_lag_60m,100.0,0
+semarang,aws_rain_sum_180m,100.0,0
+semarang,aws_temp_delta_60m,100.0,0
+semarang,clp_cloud_present_int = COT≥1,100.0,0

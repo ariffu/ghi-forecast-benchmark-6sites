@@ -1,0 +1,50 @@
+{
+ "qff_minus_qfe": 1.0,
+ "sumber_sha256": "faf6796dc6f64b425227a39c45c81efa3ca9f12aa4797bcffbfab08c9e86fd87",
+ "00_data": {
+  "kal_angin": [
+   0.7116124551316471,
+   0.35839222046208186
+  ],
+  "kal_tekanan": [
+   1.0,
+   -0.021999999999934516
+  ],
+  "kolom_berubah": [
+   "aws_pressure_delta_60m",
+   "aws_pressure_hpa",
+   "aws_pressure_lag_60m",
+   "aws_wind_speed_ms",
+   "aws_wind_speed_roll_180m_mean"
+  ],
+  "angin_slot_periode": 61488,
+  "angin_terisi": 38857,
+  "tekanan_slot_periode": 74592,
+  "tekanan_terisi": 47138,
+  "siang_el5_angin_terisi": 0.9687,
+  "siang_el5_tekanan_terisi": 0.9693
+ },
+ "00_data_rawfill": {
+  "kal_angin": [
+   0.7116124551316471,
+   0.35839222046208186
+  ],
+  "kal_tekanan": [
+   1.0,
+   -0.021999999999934516
+  ],
+  "kolom_berubah": [
+   "aws_pressure_delta_60m",
+   "aws_pressure_hpa",
+   "aws_pressure_lag_60m",
+   "aws_wind_speed_ms",
+   "aws_wind_speed_roll_180m_mean"
+  ],
+  "angin_slot_periode": 61488,
+  "angin_terisi": 38857,
+  "tekanan_slot_periode": 74592,
+  "tekanan_terisi": 47138,
+  "siang_el5_angin_terisi": 0.9687,
+  "siang_el5_tekanan_terisi": 0.9693
+ }
+}

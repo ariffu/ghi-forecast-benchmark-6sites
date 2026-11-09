@@ -1,0 +1,398 @@
+{
+ "F1": {
+  "rasio_median": 1.0006,
+  "rasio_min": 0.9685,
+  "rasio_maks": 1.0312,
+  "linke_rerata": 4.44
+ },
+ "F4": {
+  "banten": {
+   "sama_dengan_v6_1": {
+    "qc_ghi": true,
+    "qc_dhi": true,
+    "qc_dni": true,
+    "qc_refl": true,
+    "qc_uji_bit0_7": true
+   },
+   "slot_bit0_7_berubah": 0,
+   "bit8_kd_lt0_1": 49,
+   "bit8_per_tahun": {
+    "2022": 1,
+    "2023": 9,
+    "2024": 35,
+    "2025": 4
+   },
+   "bit8_kode_dhi": {
+    "0": 49
+   }
+  },
+  "bengkulu": {
+   "sama_dengan_v6_1": {
+    "qc_ghi": false,
+    "qc_dhi": false,
+    "qc_dni": false,
+    "qc_refl": false,
+    "qc_uji_bit0_7": false
+   },
+   "slot_bit0_7_berubah": 12,
+   "bit8_kd_lt0_1": 1742,
+   "bit8_per_tahun": {
+    "2022": 419,
+    "2023": 268,
+    "2024": 208,
+    "2025": 847
+   },
+   "bit8_kode_dhi": {
+    "3": 888,
+    "0": 854
+   }
+  },
+  "jambi": {
+   "sama_dengan_v6_1": {
+    "qc_ghi": true,
+    "qc_dhi": true,
+    "qc_dni": true,
+    "qc_refl": true,
+    "qc_uji_bit0_7": true
+   },
+   "slot_bit0_7_berubah": 0,
+   "bit8_kd_lt0_1": 15,
+   "bit8_per_tahun": {
+    "2022": 8,
+    "2023": 0,
+    "2024": 0,
+    "2025": 7
+   },
+   "bit8_kode_dhi": {
+    "0": 15
+   }
+  },
+  "jogja": {
+   "sama_dengan_v6_1": {
+    "qc_ghi": true,
+    "qc_dhi": true,
+    "qc_dni": true,
+    "qc_refl": true,
+    "qc_uji_bit0_7": true
+   },
+   "slot_bit0_7_berubah": 0,
+   "bit8_kd_lt0_1": 59,
+   "bit8_per_tahun": {
+    "2022": 5,
+    "2023": 0,
+    "2024": 52,
+    "2025": 2
+   },
+   "bit8_kode_dhi": {
+    "0": 55,
+    "1": 4
+   }
+  },
+  "kalbar": {
+   "sama_dengan_v6_1": {
+    "qc_ghi": true,
+    "qc_dhi": true,
+    "qc_dni": true,
+    "qc_refl": true,
+    "qc_uji_bit0_7": true
+   },
+   "slot_bit0_7_berubah": 0,
+   "bit8_kd_lt0_1": 331,
+   "bit8_per_tahun": {
+    "2022": 62,
+    "2023": 86,
+    "2024": 112,
+    "2025": 71
+   },
+   "bit8_kode_dhi": {
+    "0": 183,
+    "2": 90,
+    "1": 32,
+    "3": 26
+   }
+  },
+  "semarang": {
+   "sama_dengan_v6_1": {
+    "qc_ghi": true,
+    "qc_dhi": true,
+    "qc_dni": true,
+    "qc_refl": true,
+    "qc_uji_bit0_7": true
+   },
+   "slot_bit0_7_berubah": 0,
+   "bit8_kd_lt0_1": 44,
+   "bit8_per_tahun": {
+    "2022": 23,
+    "2023": 15,
+    "2024": 5,
+    "2025": 1
+   },
+   "bit8_kode_dhi": {
+    "1": 32,
+    "0": 12
+   }
+  }
+ },
+ "F3": {
+  "banten": {
+   "00_data": {
+    "lonjakan": 1928,
+    "satu_slot": 435,
+    "blok_2_6_slot": 1493,
+    "per_tahun": {
+     "2022": 121,
+     "2023": 1698,
+     "2024": 107,
+     "2025": 2
+    },
+    "median_besar": 1.6,
+    "suhu_ikut_lonjak": 15,
+    "rh_ikut_lonjak": 16
+   },
+   "00_data_rawfill": {
+    "lonjakan": 1928,
+    "satu_slot": 435,
+    "blok_2_6_slot": 1493,
+    "per_tahun": {
+     "2022": 121,
+     "2023": 1698,
+     "2024": 107,
+     "2025": 2
+    },
+    "median_besar": 1.6,
+    "suhu_ikut_lonjak": 15,
+    "rh_ikut_lonjak": 16
+   }
+  },
+  "bengkulu": {
+   "00_data": {
+    "lonjakan": 5300,
+    "satu_slot": 1194,
+    "blok_2_6_slot": 4106,
+    "per_tahun": {
+     "2022": 24,
+     "2023": 34,
+     "2024": 2692,
+     "2025": 2550
+    },
+    "median_besar": 0.8,
+    "suhu_ikut_lonjak": 13,
+    "rh_ikut_lonjak": 8
+   },
+   "00_data_rawfill": {
+    "lonjakan": 5300,
+    "satu_slot": 1194,
+    "blok_2_6_slot": 4106,
+    "per_tahun": {
+     "2022": 24,
+     "2023": 34,
+     "2024": 2692,
+     "2025": 2550
+    },
+    "median_besar": 0.8,
+    "suhu_ikut_lonjak": 13,
+    "rh_ikut_lonjak": 8
+   }
+  },
+  "jambi": {
+   "00_data": {
+    "lonjakan": 54,
+    "satu_slot": 20,
+    "blok_2_6_slot": 34,
+    "per_tahun": {
+     "2022": 47,
+     "2023": 1,
+     "2024": 5,
+     "2025": 1
+    },
+    "median_besar": 1.12,
+    "suhu_ikut_lonjak": 1,
+    "rh_ikut_lonjak": 1
+   },
+   "00_data_rawfill": {
+    "lonjakan": 54,
+    "satu_slot": 20,
+    "blok_2_6_slot": 34,
+    "per_tahun": {
+     "2022": 47,
+     "2023": 1,
+     "2024": 5,
+     "2025": 1
+    },
+    "median_besar": 1.12,
+    "suhu_ikut_lonjak": 1,
+    "rh_ikut_lonjak": 1
+   }
+  },
+  "jogja": {
+   "00_data": {
+    "lonjakan": 42,
+    "satu_slot": 13,
+    "blok_2_6_slot": 29,
+    "per_tahun": {
+     "2022": 5,
+     "2023": 6,
+     "2024": 23,
+     "2025": 8
+    },
+    "median_besar": 1.61,
+    "suhu_ikut_lonjak": 5,
+    "rh_ikut_lonjak": 3
+   },
+   "00_data_rawfill": {
+    "lonjakan": 42,
+    "satu_slot": 13,
+    "blok_2_6_slot": 29,
+    "per_tahun": {
+     "2022": 5,
+     "2023": 6,
+     "2024": 23,
+     "2025": 8
+    },
+    "median_besar": 1.61,
+    "suhu_ikut_lonjak": 5,
+    "rh_ikut_lonjak": 3
+   }
+  },
+  "kalbar": {
+   "00_data": {
+    "lonjakan": 918,
+    "satu_slot": 360,
+    "blok_2_6_slot": 558,
+    "per_tahun": {
+     "2022": 727,
+     "2023": 35,
+     "2024": 82,
+     "2025": 74
+    },
+    "median_besar": 1.55,
+    "suhu_ikut_lonjak": 4,
+    "rh_ikut_lonjak": 2
+   },
+   "00_data_rawfill": {
+    "lonjakan": 918,
+    "satu_slot": 360,
+    "blok_2_6_slot": 558,
+    "per_tahun": {
+     "2022": 727,
+     "2023": 35,
+     "2024": 82,
+     "2025": 74
+    },
+    "median_besar": 1.55,
+    "suhu_ikut_lonjak": 4,
+    "rh_ikut_lonjak": 2
+   }
+  },
+  "semarang": {
+   "00_data": {
+    "lonjakan": 259,
+    "satu_slot": 71,
+    "blok_2_6_slot": 188,
+    "per_tahun": {
+     "2022": 134,
+     "2023": 112,
+     "2024": 6,
+     "2025": 7
+    },
+    "median_besar": 1.02,
+    "suhu_ikut_lonjak": 8,
+    "rh_ikut_lonjak": 32
+   },
+   "00_data_rawfill": {
+    "lonjakan": 259,
+    "satu_slot": 71,
+    "blok_2_6_slot": 188,
+    "per_tahun": {
+     "2022": 134,
+     "2023": 112,
+     "2024": 6,
+     "2025": 7
+    },
+    "median_besar": 1.02,
+    "suhu_ikut_lonjak": 8,
+    "rh_ikut_lonjak": 32
+   }
+  }
+ },
+ "F2": {
+  "banten": {
+   "slot_berkas": 104899,
+   "frac_isi": 91201,
+   "qc_sza": {
+    "0": 78889,
+    "1": 12312,
+    "2": 13698,
+    "9": 105485
+   },
+   "cot_ada_selalu_frac_gt0": true,
+   "frac_median_siang": 0.694,
+   "frac_nol_siang": 0.008
+  },
+  "bengkulu": {
+   "slot_berkas": 104899,
+   "frac_isi": 91322,
+   "qc_sza": {
+    "0": 79069,
+    "1": 12253,
+    "2": 13577,
+    "9": 105485
+   },
+   "cot_ada_selalu_frac_gt0": true,
+   "frac_median_siang": 0.736,
+   "frac_nol_siang": 0.002
+  },
+  "jambi": {
+   "slot_berkas": 104899,
+   "frac_isi": 91203,
+   "qc_sza": {
+    "0": 79078,
+    "1": 12125,
+    "2": 13696,
+    "9": 105485
+   },
+   "cot_ada_selalu_frac_gt0": true,
+   "frac_median_siang": 0.76,
+   "frac_nol_siang": 0.003
+  },
+  "jogja": {
+   "slot_berkas": 104899,
+   "frac_isi": 90826,
+   "qc_sza": {
+    "0": 78710,
+    "1": 12116,
+    "2": 14073,
+    "9": 105485
+   },
+   "cot_ada_selalu_frac_gt0": true,
+   "frac_median_siang": 0.711,
+   "frac_nol_siang": 0.002
+  },
+  "kalbar": {
+   "slot_berkas": 104899,
+   "frac_isi": 91405,
+   "qc_sza": {
+    "0": 79052,
+    "1": 12353,
+    "2": 13494,
+    "9": 105485
+   },
+   "cot_ada_selalu_frac_gt0": true,
+   "frac_median_siang": 0.755,
+   "frac_nol_siang": 0.003
+  },
+  "semarang": {
+   "slot_berkas": 104898,
+   "frac_isi": 90935,
+   "qc_sza": {
+    "0": 78761,
+    "1": 12174,
+    "2": 13963,
+    "9": 105486
+   },
+   "cot_ada_selalu_frac_gt0": true,
+   "frac_median_siang": 0.579,
+   "frac_nol_siang": 0.015
+  }
+ }
+}

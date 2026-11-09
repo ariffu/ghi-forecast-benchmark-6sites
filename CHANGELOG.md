@@ -1,5 +1,28 @@
 # Changelog
 
+## v3.0.0 — 2026-11-09
+
+Accompanies manuscript version 6, *Himawari-8/9 cloud retrievals improve hour-ahead irradiance forecasts in Indonesia when the sky changes*. Every number in that manuscript was recomputed from database version 6.10; the numbers of v2.0.0 no longer match the manuscript.
+
+**Layout**
+- `pipeline/` (v2.0.0) is replaced by a copy of the working directories that produced manuscript version 6: `paper_v2_clpbanten/` (shared helpers, reused stage scripts, database stages 93–113, supporting analyses in stage 114), `Manuskrip_versi6/` (training protocol, analysis, results), `training mirip/` (synthetic-signal control) and `data_versions/` (README of each database version). Relative paths inside the scripts resolve in this layout.
+- Figures renamed to their manuscript numbers (`Fig1`–`Fig5`, `FigS1`–`FigS2`), PNG and PDF.
+
+**Data changes (database 6.10)**
+- Radiation series identical to the harmonised series behind the previous manuscript version.
+- Clear-sky irradiance averaged over each 10-min slot, like GHI.
+- Himawari-8/9 CLP re-extracted at all six stations from boxes of 11 × 11 pixels centred on the station coordinates (Jambi now at the radiometer site), with the box cloud fraction.
+- AWS meteorology checked against SYNOP (units and pressure levels matched, causal 7-day bias correction) and rebuilt with a causal estimator; rainfall from the AWS 24-h accumulation (reset at 00 UTC); SYNOP reports kept for 50 min; total cloud cover N at all stations.
+
+**Method changes**
+- 44 predictors: the 43 of v2.0.0 plus the CLP cloud fraction.
+- All eight architectures trained with one protocol (residual target, five seeds), as in the manuscript.
+- Box statistics rebuilt from the version-6 extraction (stage 113, verified pixel by pixel against Himawari chips); six statistics, because the cloud fraction is now a predictor.
+- Supporting analyses recomputed on version 6.10 (stage 114): walk-forward test, SHAP attribution, synthetic-signal control, hyperparameter search (default = the main protocol, reproduced exactly) and predictor-selection check.
+- A number checker (`Manuskrip_versi6/analisis/v6_05_cek_angka.py`) recomputes every number quoted in the manuscript from the result files.
+
+**Not distributed** (unchanged policy): station observations, the harmonised database and model frames, clear-sky caches, prediction archives (`*.npz`, `*.npy`), trained models, the Himawari extraction archives, the manuscript and the authors' document builder.
+
 ## v2.0.0 — 2026-10-12
 
 Complete pipeline behind the revised manuscript *Hour-ahead irradiance forecasting in the humid tropics: model choice versus data sources at six Indonesian stations*. The numbers in v1.0.x no longer match the manuscript.

@@ -1,0 +1,7 @@
+stasiun,min_le_cot,cot_le_max,std_negatif,std_kosong_saat_awan,cth_std_maks,lag_benar
+banten,True,True,0,0,6.6,True
+bengkulu,True,True,0,0,6.8,True
+jambi,True,True,0,0,7.13,True
+jogja,True,True,0,0,6.74,True
+kalbar,True,True,0,0,6.72,True
+semarang,True,True,0,0,6.91,True

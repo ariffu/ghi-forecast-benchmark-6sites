@@ -1,6 +1,5 @@
-# Reproducible environment for ghi-forecast-benchmark-6sites v2.0.0.
-# Versions are those recorded by pipeline/run_all.py (logs/environment.json) for the final rerun of 2026-10-12,
-# plus pvlib (Ineichen–Perez clear-sky model, stage 55).
+# Reproducible environment for ghi-forecast-benchmark-6sites v3.0.0.
+# Versions are those of the environment that ran manuscript version 6 (database 6.10), 2026-11-08/09.
 name: ghi-benchmark-6sites
 channels:
   - conda-forge
@@ -19,5 +18,5 @@ dependencies:
       - scikit-learn==1.9.0
       - scipy==1.18.0
       - pvlib==0.15.2
-      # shap and pyarrow are NOT required: SHAP values are computed with LightGBM pred_contrib,
-      # and DuckDB reads/writes Parquet natively.
+      - pyarrow==26.0.0      # pandas reads the database (Parquet)
+      # shap is NOT required: SHAP values are computed with LightGBM pred_contrib.

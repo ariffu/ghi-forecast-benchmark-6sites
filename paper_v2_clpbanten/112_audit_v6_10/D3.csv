@@ -1,0 +1,7 @@
+stasiun,kolom_kosong,kolom_konstan,kolom_duplikat
+banten,"sunshine_cum_min,aws_ghi_wm2",has_source_row,"aws_ghi_wm2=sunshine_cum_min,kt_std_1h=kt_roll_60m_std,ghi_cs_t60=clear_sky_ghi_h1,smart_persist=smart_persist_h1"
+bengkulu,"sunshine_slot_min,sunshine_cum_min,aod_500nm,angstrom_exp",has_source_row,"sunshine_cum_min=sunshine_slot_min,aod_500nm=sunshine_slot_min,angstrom_exp=sunshine_slot_min,kt_std_1h=kt_roll_60m_std,ghi_cs_t60=clear_sky_ghi_h1,smart_persist=smart_persist_h1"
+jambi,"sunshine_slot_min,sunshine_cum_min,aod_500nm,angstrom_exp",has_source_row,"sunshine_cum_min=sunshine_slot_min,aod_500nm=sunshine_slot_min,angstrom_exp=sunshine_slot_min,kt_std_1h=kt_roll_60m_std,ghi_cs_t60=clear_sky_ghi_h1,smart_persist=smart_persist_h1"
+jogja,"sunshine_slot_min,aod_500nm,angstrom_exp",,"aod_500nm=sunshine_slot_min,angstrom_exp=sunshine_slot_min,kt_std_1h=kt_roll_60m_std,ghi_cs_t60=clear_sky_ghi_h1,smart_persist=smart_persist_h1"
+kalbar,sunshine_cum_min,,"kt_std_1h=kt_roll_60m_std,ghi_cs_t60=clear_sky_ghi_h1,smart_persist=smart_persist_h1"
+semarang,"sunshine_slot_min,aod_500nm,angstrom_exp",,"aod_500nm=sunshine_slot_min,angstrom_exp=sunshine_slot_min,kt_std_1h=kt_roll_60m_std,ghi_cs_t60=clear_sky_ghi_h1,smart_persist=smart_persist_h1"

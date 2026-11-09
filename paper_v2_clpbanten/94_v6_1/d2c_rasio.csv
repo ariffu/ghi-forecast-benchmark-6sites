@@ -1,0 +1,49 @@
+stasiun,mu,el,pagi,sore,n,pagi−sore
+banten,awal t,15-35,1.0077,1.0272,7068,-0.0195
+banten,awal t,35-60,1.0238,1.0284,15816,-0.0046
+banten,tengah t+5,15-35,0.9883,1.0425,7068,-0.0542
+banten,tengah t+5,35-60,1.0156,1.0351,15816,-0.0195
+banten,"rata-rata [t,t+9]",15-35,0.9901,1.041,7068,-0.0509
+banten,"rata-rata [t,t+9]",35-60,1.0165,1.0344,15816,-0.0179
+banten,awal t−10 (interval berakhir t),15-35,1.0294,1.0116,7068,0.0178
+banten,awal t−10 (interval berakhir t),35-60,1.0336,1.0216,15816,0.012
+bengkulu,awal t,15-35,1.0208,1.0111,2144,0.0097
+bengkulu,awal t,35-60,1.0234,1.0217,5431,0.0017
+bengkulu,tengah t+5,15-35,0.9987,1.033,2144,-0.0343
+bengkulu,tengah t+5,35-60,1.0136,1.0303,5431,-0.0167
+bengkulu,"rata-rata [t,t+9]",15-35,1.0018,1.0309,2144,-0.0291
+bengkulu,"rata-rata [t,t+9]",35-60,1.0146,1.0292,5431,-0.0146
+bengkulu,awal t−10 (interval berakhir t),15-35,1.0467,0.9893,2144,0.0574
+bengkulu,awal t−10 (interval berakhir t),35-60,1.0325,1.0111,5431,0.0214
+jambi,awal t,15-35,1.0377,1.0206,6028,0.0171
+jambi,awal t,35-60,1.0376,1.025,13465,0.0126
+jambi,tengah t+5,15-35,1.0238,1.0383,6028,-0.0145
+jambi,tengah t+5,35-60,1.0301,1.0333,13465,-0.0032
+jambi,"rata-rata [t,t+9]",15-35,1.0252,1.0361,6028,-0.0109
+jambi,"rata-rata [t,t+9]",35-60,1.031,1.0324,13465,-0.0014
+jambi,awal t−10 (interval berakhir t),15-35,1.059,0.9951,6028,0.0639
+jambi,awal t−10 (interval berakhir t),35-60,1.0481,1.0142,13465,0.0339
+jogja,awal t,15-35,1.0285,0.989,6641,0.0395
+jogja,awal t,35-60,1.0146,0.9937,11601,0.0209
+jogja,tengah t+5,15-35,1.0051,1.0097,6641,-0.0046
+jogja,tengah t+5,35-60,1.0038,1.0043,11601,-0.0005
+jogja,"rata-rata [t,t+9]",15-35,1.0075,1.0077,6641,-0.0002
+jogja,"rata-rata [t,t+9]",35-60,1.005,1.0033,11601,0.0017
+jogja,awal t−10 (interval berakhir t),15-35,1.053,0.9655,6641,0.0875
+jogja,awal t−10 (interval berakhir t),35-60,1.0263,0.9833,11601,0.043
+kalbar,awal t,15-35,1.0486,1.0089,3994,0.0397
+kalbar,awal t,35-60,1.0407,1.0263,8119,0.0144
+kalbar,tengah t+5,15-35,1.0228,1.0316,3994,-0.0088
+kalbar,tengah t+5,35-60,1.0309,1.0361,8119,-0.0052
+kalbar,"rata-rata [t,t+9]",15-35,1.0251,1.0292,3994,-0.0041
+kalbar,"rata-rata [t,t+9]",35-60,1.032,1.0351,8119,-0.0031
+kalbar,awal t−10 (interval berakhir t),15-35,1.0756,0.9788,3994,0.0968
+kalbar,awal t−10 (interval berakhir t),35-60,1.0531,1.0134,8119,0.0397
+semarang,awal t,15-35,1.0423,1.0244,5587,0.0179
+semarang,awal t,35-60,1.045,1.0363,12652,0.0087
+semarang,tengah t+5,15-35,1.0208,1.0432,5587,-0.0224
+semarang,tengah t+5,35-60,1.0342,1.0462,12652,-0.012
+semarang,"rata-rata [t,t+9]",15-35,1.023,1.041,5587,-0.018
+semarang,"rata-rata [t,t+9]",35-60,1.0354,1.0451,12652,-0.0097
+semarang,awal t−10 (interval berakhir t),15-35,1.0673,1.0018,5587,0.0655
+semarang,awal t−10 (interval berakhir t),35-60,1.0577,1.0255,12652,0.0322
