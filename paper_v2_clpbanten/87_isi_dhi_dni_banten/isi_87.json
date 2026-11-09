@@ -1,0 +1,121 @@
+{
+ "logger_salinan_beda_gt1_pct": 0.0,
+ "n_logger_dhi_dni": 7502,
+ "n_logger_refl": 7502,
+ "n_model_dhi_dni": 1081,
+ "n_neg": 0,
+ "n_dhi_ppl": 1,
+ "n_dni_ppl": 0,
+ "n_difus": 2,
+ "n_neraca": 12,
+ "n_neraca_logger": 11,
+ "n_konflik_horizon": 1,
+ "konflik_slot": [
+  [
+   "2025-12-20 05:40:00",
+   0.1,
+   73.1
+  ]
+ ],
+ "n_albedo": 1078,
+ "n_refl_uji": 0,
+ "uji_fisis": {
+  "2022": {
+   "ghi_ppl": 0,
+   "dhi_ppl": 0,
+   "dni_ppl": 0,
+   "neg": 0,
+   "difus": 0,
+   "neraca": 0,
+   "refl": 0,
+   "kosong_dhi": 5,
+   "kosong_dni": 5,
+   "kosong_refl": 5
+  },
+  "2023": {
+   "ghi_ppl": 0,
+   "dhi_ppl": 0,
+   "dni_ppl": 0,
+   "neg": 0,
+   "difus": 0,
+   "neraca": 0,
+   "refl": 0,
+   "kosong_dhi": 5,
+   "kosong_dni": 5,
+   "kosong_refl": 5
+  },
+  "2024": {
+   "ghi_ppl": 0,
+   "dhi_ppl": 0,
+   "dni_ppl": 0,
+   "neg": 0,
+   "difus": 0,
+   "neraca": 0,
+   "refl": 0,
+   "kosong_dhi": 2,
+   "kosong_dni": 2,
+   "kosong_refl": 2
+  },
+  "2025": {
+   "ghi_ppl": 0,
+   "dhi_ppl": 0,
+   "dni_ppl": 0,
+   "neg": 0,
+   "difus": 0,
+   "neraca": 0,
+   "refl": 0,
+   "kosong_dhi": 42,
+   "kosong_dni": 42,
+   "kosong_refl": 42
+  }
+ },
+ "per_tahun": {
+  "2022": {
+   "logger": 7502,
+   "model": 75,
+   "siang_e5": 24730,
+   "diisi_e5_pct": 28.91
+  },
+  "2023": {
+   "logger": 0,
+   "model": 67,
+   "siang_e5": 24730,
+   "diisi_e5_pct": 0.27
+  },
+  "2024": {
+   "logger": 0,
+   "model": 70,
+   "siang_e5": 24800,
+   "diisi_e5_pct": 0.27
+  },
+  "2025": {
+   "logger": 0,
+   "model": 869,
+   "siang_e5": 24730,
+   "diisi_e5_pct": 3.38
+  }
+ },
+ "holdout": {
+  "n": 43455,
+  "dhi_rmse": 45.3,
+  "dhi_mbe": 3.1,
+  "dhi_r": 0.945,
+  "dni_rmse": 65.4,
+  "dni_mbe": 5.8
+ },
+ "logger_neraca": {
+  "n": 7078,
+  "rmse": 16.0,
+  "r": 0.9982
+ },
+ "lompatan_dhi": {
+  "batas_isian": 25.4,
+  "ukur": 18.6
+ },
+ "dni_isian_e_le5": {
+  "n": 465,
+  "maks": 417.2,
+  "p95": 1.0
+ },
+ "dni_isian_maks": 918.6
+}

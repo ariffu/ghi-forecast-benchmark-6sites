@@ -1,0 +1,8 @@
+model,kurang akurat,lebih akurat,tidak beda
+CatBoost,0,17,13
+LSTM,24,0,6
+LSTM_hybrid,8,1,21
+MLP,7,0,23
+Transformer,15,0,15
+Transformer_hybrid,7,2,21
+XGBoost,5,5,20

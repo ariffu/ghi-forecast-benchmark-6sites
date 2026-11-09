@@ -1,0 +1,64 @@
+{
+ "v6_13_gambar_peta.py": {
+  "sumber": "C:\\Users\\ariff\\Documents\\_Arsip_Balai_v5\\solardata_new_v2\\Manusrip_versi4\\analisis\\13_gambar_peta.py",
+  "sha256": "5bbeba84742fd3610e914c79b8649383b261bf9f4919b75aa8cde624bad28ef8",
+  "ganti": [
+   [
+    "\"Bengkulu\": (-3.861, 102.338), \"Jambi\": (-1.583, 103.667)",
+    "\"Bengkulu\": (-3.865, 102.312), \"Jambi\": (-1.601, 103.494)"
+   ]
+  ]
+ },
+ "v6_08_gambar_alur_kerja.py": {
+  "sumber": "C:\\Users\\ariff\\Documents\\_Arsip_Balai_v5\\solardata_new_v2\\Manusrip_versi4\\analisis\\08_gambar_alur_kerja.py",
+  "sha256": "6b1ad78e1769a23b2f35695100e5616ceb1c31fcd2618916fef5600427d1d413",
+  "ganti": [
+   [
+    "_F = _common.P2 if _common.FEATSET == \"P2\" else None",
+    "_F = _common.P2_AKTIF if _common.FEATSET == \"P2F\" else None   # Manuskrip V6: 44 prediktor"
+   ],
+   [
+    "assert _F is not None, \"Fig. 2 v3 menggambarkan himpunan 43 prediktor (FEATSET=P2)\"",
+    "assert _F is not None and len(_F) == 44, \"Fig. 2 V6 menggambarkan himpunan 44 prediktor (FEATSET=P2F)\""
+   ]
+  ]
+ },
+ "v6_03_gambar.py": {
+  "sumber": "C:\\Users\\ariff\\Documents\\Balai Obsidian\\Balai\\solardata_new_v2\\Manuskrip_versi5\\analisis\\v4_03_gambar.py",
+  "sha256": "e304cbe5c2344b2354b6f75150f70960d8741e009104ee75ae016df428e52f1d",
+  "ganti": [
+   [
+    "SY = pd.read_csv(os.path.join(ROOT, \"training mirip\", \"hasil\", \"sinyal_sintetis.csv\"))",
+    "SY = pd.read_csv(os.path.join(P, \"114_pendukung_v610\", \"a3_sintetis\", \"sinyal_sintetis.csv\"))   # Manuskrip V6: V6.10"
+   ],
+   [
+    "mods = [(\"LightGBM, 43 fitur\", \"LightGBM (43 predictors)\", \"#2e7d32\", \"o\")",
+    "mods = [(\"LightGBM, 43 fitur\", \"LightGBM (44 predictors)\", \"#2e7d32\", \"o\")"
+   ],
+   [
+    "\"clp_cloud_present_int\": \"Cloud flag\",",
+    "\"clp_cloud_present_int\": \"Cloud flag\", \"clp_cloud_frac\": \"Cloud fraction\","
+   ],
+   [
+    "SH = pd.read_csv(os.path.join(P, \"02_feature_ranking_mean\", \"shap_global_mean.csv\"))",
+    "SH = pd.read_csv(os.path.join(P, \"114_pendukung_v610\", \"a2_shap\", \"shap_global_mean.csv\"))"
+   ],
+   [
+    "SS = pd.read_csv(os.path.join(P, \"02_feature_ranking_mean\", \"selection_sweep_mean.csv\")).dropna()",
+    "SS = pd.read_csv(os.path.join(P, \"114_pendukung_v610\", \"a2_shap\", \"selection_sweep_mean.csv\")).dropna()"
+   ],
+   [
+    "J[\"shap_seleksi_uji_43\"] = float(SS.loc[SS.K == 43, \"test_R2\"].iloc[0])",
+    "J[\"shap_seleksi_uji_44\"] = float(SS.loc[SS.K == 44, \"test_R2\"].iloc[0])"
+   ],
+   [
+    "a2.set_ylim(-12, 25)",
+    "a2.set_ylim(-14, 25)"
+   ],
+   [
+    "a2.set_xlabel(\"Number of predictors retained (by SHAP rank)\")",
+    "a2.set_xlabel(\"Number of predictors retained (by importance rank)\")"
+   ]
+  ]
+ }
+}

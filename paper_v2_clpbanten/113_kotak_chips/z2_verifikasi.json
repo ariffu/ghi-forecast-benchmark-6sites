@@ -1,0 +1,74 @@
+{
+ "banten": {
+  "baris": 99795,
+  "kunci_ada": 99794,
+  "count_sama": 99794,
+  "cot_minmax_floor": 50098,
+  "cth_minmax_floor": 50171,
+  "n_awan": 85960,
+  "hari_skala_ganda": 0,
+  "hari_chip": 1390,
+  "hari_pertama": "2022-03-13",
+  "hari_terakhir": "2025-12-31"
+ },
+ "bengkulu": {
+  "baris": 99795,
+  "kunci_ada": 99794,
+  "count_sama": 99794,
+  "cot_minmax_floor": 50681,
+  "cth_minmax_floor": 50745,
+  "n_awan": 86945,
+  "hari_skala_ganda": 0,
+  "hari_chip": 1390,
+  "hari_pertama": "2022-03-13",
+  "hari_terakhir": "2025-12-31"
+ },
+ "jambi": {
+  "baris": 99795,
+  "kunci_ada": 99794,
+  "count_sama": 99794,
+  "cot_minmax_floor": 50568,
+  "cth_minmax_floor": 50617,
+  "n_awan": 86701,
+  "hari_skala_ganda": 0,
+  "hari_chip": 1390,
+  "hari_pertama": "2022-03-13",
+  "hari_terakhir": "2025-12-31"
+ },
+ "jogja": {
+  "baris": 99795,
+  "kunci_ada": 99794,
+  "count_sama": 99794,
+  "cot_minmax_floor": 50333,
+  "cth_minmax_floor": 50435,
+  "n_awan": 86416,
+  "hari_skala_ganda": 0,
+  "hari_chip": 1390,
+  "hari_pertama": "2022-03-13",
+  "hari_terakhir": "2025-12-31"
+ },
+ "kalbar": {
+  "baris": 99795,
+  "kunci_ada": 99794,
+  "count_sama": 99794,
+  "cot_minmax_floor": 50666,
+  "cth_minmax_floor": 50727,
+  "n_awan": 86870,
+  "hari_skala_ganda": 0,
+  "hari_chip": 1390,
+  "hari_pertama": "2022-03-13",
+  "hari_terakhir": "2025-12-31"
+ },
+ "semarang": {
+  "baris": 99794,
+  "kunci_ada": 99793,
+  "count_sama": 99793,
+  "cot_minmax_floor": 49793,
+  "cth_minmax_floor": 49847,
+  "n_awan": 85424,
+  "hari_skala_ganda": 0,
+  "hari_chip": 1390,
+  "hari_pertama": "2022-03-13",
+  "hari_terakhir": "2025-12-31"
+ }
+}

@@ -1,0 +1,161 @@
+stasiun,var,tahun,isi_siang,macet_siang_pct,nilai_macet
+banten,aws_temp_c,2022,23143,0.0,
+banten,aws_temp_c,2023,23170,0.0,
+banten,aws_temp_c,2024,23231,0.0,
+banten,aws_temp_c,2025,23158,0.0,
+banten,aws_rh_pct,2022,23158,0.0,
+banten,aws_rh_pct,2023,23165,0.0,
+banten,aws_rh_pct,2024,23221,0.0,
+banten,aws_rh_pct,2025,23153,0.0,
+banten,aws_pressure_hpa,2022,23062,4.81,"{1008.9: 1054, 1008.8: 34, 1009.0: 21}"
+banten,aws_pressure_hpa,2023,21752,0.14,{1006.0: 31}
+banten,aws_pressure_hpa,2024,23142,0.0,
+banten,aws_pressure_hpa,2025,23158,0.0,
+banten,aws_wind_speed_ms,2022,23163,0.32,{0.0: 75}
+banten,aws_wind_speed_ms,2023,23170,0.07,{0.0: 17}
+banten,aws_wind_speed_ms,2024,23236,0.0,
+banten,aws_wind_speed_ms,2025,23162,0.42,{0.0: 97}
+banten,aws_wind_dir_deg,2022,23167,0.32,{0.0: 75}
+banten,aws_wind_dir_deg,2023,23170,0.0,
+banten,aws_wind_dir_deg,2024,23236,0.0,
+banten,aws_wind_dir_deg,2025,23104,0.0,
+banten,aws_rain_mm,2022,23170,0.0,
+banten,aws_rain_mm,2023,23170,0.0,
+banten,aws_rain_mm,2024,23236,0.0,
+banten,aws_rain_mm,2025,23170,0.0,
+bengkulu,aws_temp_c,2022,23113,0.0,
+bengkulu,aws_temp_c,2023,23019,0.0,
+bengkulu,aws_temp_c,2024,23230,0.0,
+bengkulu,aws_temp_c,2025,23150,0.0,
+bengkulu,aws_rh_pct,2022,23098,0.1,{100.0: 22}
+bengkulu,aws_rh_pct,2023,23009,0.0,
+bengkulu,aws_rh_pct,2024,23228,0.3,{100.0: 70}
+bengkulu,aws_rh_pct,2025,23144,1.94,{100.0: 450}
+bengkulu,aws_pressure_hpa,2022,23158,0.0,
+bengkulu,aws_pressure_hpa,2023,23150,0.0,
+bengkulu,aws_pressure_hpa,2024,20937,0.0,
+bengkulu,aws_pressure_hpa,2025,20954,0.0,
+bengkulu,aws_wind_speed_ms,2022,23174,0.0,
+bengkulu,aws_wind_speed_ms,2023,23174,0.0,
+bengkulu,aws_wind_speed_ms,2024,23238,12.78,{0.0: 2970}
+bengkulu,aws_wind_speed_ms,2025,23174,8.31,{0.0: 1925}
+bengkulu,aws_wind_dir_deg,2022,21419,0.0,
+bengkulu,aws_wind_dir_deg,2023,23168,0.0,
+bengkulu,aws_wind_dir_deg,2024,23238,0.0,
+bengkulu,aws_wind_dir_deg,2025,23046,0.0,
+bengkulu,aws_rain_mm,2022,23174,0.0,
+bengkulu,aws_rain_mm,2023,23174,0.0,
+bengkulu,aws_rain_mm,2024,23238,0.0,
+bengkulu,aws_rain_mm,2025,23174,0.0,
+bengkulu,aws_ghi_wm2,2022,21406,0.0,
+bengkulu,aws_ghi_wm2,2023,23159,0.0,
+bengkulu,aws_ghi_wm2,2024,23238,0.0,
+bengkulu,aws_ghi_wm2,2025,23045,0.0,
+jambi,aws_temp_c,2022,23201,0.0,
+jambi,aws_temp_c,2023,23220,0.0,
+jambi,aws_temp_c,2024,23281,0.03,{24.9: 8}
+jambi,aws_temp_c,2025,23223,0.03,"{25.2: 2, 23.8: 2, 24.0: 1}"
+jambi,aws_rh_pct,2022,23208,0.33,"{97.0: 34, 98.0: 22, 95.0: 21}"
+jambi,aws_rh_pct,2023,23223,0.22,"{97.0: 23, 95.0: 22, 94.0: 6}"
+jambi,aws_rh_pct,2024,23256,0.43,"{97.0: 39, 98.0: 31, 95.0: 26}"
+jambi,aws_rh_pct,2025,23213,0.43,"{97.0: 77, 95.0: 11, 98.0: 10}"
+jambi,aws_pressure_hpa,2022,23204,0.0,
+jambi,aws_pressure_hpa,2023,23221,0.0,
+jambi,aws_pressure_hpa,2024,23285,0.0,
+jambi,aws_pressure_hpa,2025,23223,0.0,
+jambi,aws_wind_speed_ms,2022,23223,12.1,"{0.0: 1945, 1.03: 442, 1.54: 258}"
+jambi,aws_wind_speed_ms,2023,23208,15.72,"{0.0: 3059, 1.03: 385, 1.54: 132}"
+jambi,aws_wind_speed_ms,2024,23270,12.98,"{0.0: 2478, 1.03: 208, 1.54: 184}"
+jambi,aws_wind_speed_ms,2025,23177,16.3,"{0.0: 3074, 1.03: 377, 0.51: 164}"
+jambi,aws_wind_dir_deg,2022,21098,3.95,{0.0: 834}
+jambi,aws_wind_dir_deg,2023,23207,6.03,{0.0: 1399}
+jambi,aws_wind_dir_deg,2024,23287,4.16,"{0.0: 872, 137.0: 60, 360.0: 36}"
+jambi,aws_wind_dir_deg,2025,23094,5.89,{0.0: 1360}
+jambi,aws_rain_mm,2022,23223,0.0,
+jambi,aws_rain_mm,2023,23223,0.0,
+jambi,aws_rain_mm,2024,23287,0.0,
+jambi,aws_rain_mm,2025,23223,0.0,
+jambi,aws_ghi_wm2,2022,20102,0.01,{0.0: 2}
+jambi,aws_ghi_wm2,2023,22481,0.01,{0.0: 2}
+jambi,aws_ghi_wm2,2024,22521,0.0,
+jambi,aws_ghi_wm2,2025,22955,0.0,
+jogja,aws_temp_c,2022,23196,0.0,
+jogja,aws_temp_c,2023,23196,0.0,
+jogja,aws_temp_c,2024,23263,0.0,
+jogja,aws_temp_c,2025,23197,0.0,
+jogja,aws_rh_pct,2022,23197,0.0,
+jogja,aws_rh_pct,2023,23195,0.06,{100.0: 15}
+jogja,aws_rh_pct,2024,23263,0.08,{100.0: 19}
+jogja,aws_rh_pct,2025,23197,0.0,
+jogja,aws_pressure_hpa,2022,23185,0.0,
+jogja,aws_pressure_hpa,2023,23191,0.0,
+jogja,aws_pressure_hpa,2024,23244,0.16,{975.0: 37}
+jogja,aws_pressure_hpa,2025,23192,0.0,
+jogja,aws_wind_speed_ms,2022,23197,0.0,
+jogja,aws_wind_speed_ms,2023,23197,0.0,
+jogja,aws_wind_speed_ms,2024,23263,0.0,
+jogja,aws_wind_speed_ms,2025,23197,0.78,{0.0: 181}
+jogja,aws_wind_dir_deg,2022,23124,0.0,
+jogja,aws_wind_dir_deg,2023,23197,0.0,
+jogja,aws_wind_dir_deg,2024,23263,0.0,
+jogja,aws_wind_dir_deg,2025,23067,0.0,
+jogja,aws_rain_mm,2022,23197,2.36,"{0.1: 291, 0.2: 155, 0.3: 32}"
+jogja,aws_rain_mm,2023,23197,1.01,"{0.1: 177, 0.2: 29, 0.3: 29}"
+jogja,aws_rain_mm,2024,23263,1.6,"{0.1: 179, 0.2: 100, 0.4: 62}"
+jogja,aws_rain_mm,2025,23197,0.57,"{0.1: 67, 0.2: 65}"
+jogja,aws_ghi_wm2,2022,21242,0.0,
+jogja,aws_ghi_wm2,2023,22359,0.0,
+jogja,aws_ghi_wm2,2024,22238,0.0,
+jogja,aws_ghi_wm2,2025,22838,0.0,
+kalbar,aws_temp_c,2022,23212,0.0,
+kalbar,aws_temp_c,2023,23211,0.0,
+kalbar,aws_temp_c,2024,23276,0.0,
+kalbar,aws_temp_c,2025,23212,0.0,
+kalbar,aws_rh_pct,2022,23203,1.34,{98.2: 311}
+kalbar,aws_rh_pct,2023,23193,4.35,"{98.1: 879, 95.1: 98, 98.2: 31}"
+kalbar,aws_rh_pct,2024,23264,0.31,{100.0: 72}
+kalbar,aws_rh_pct,2025,23133,0.04,{100.0: 10}
+kalbar,aws_pressure_hpa,2022,22441,0.0,
+kalbar,aws_pressure_hpa,2023,23176,0.0,
+kalbar,aws_pressure_hpa,2024,23176,0.0,
+kalbar,aws_pressure_hpa,2025,23132,0.0,
+kalbar,aws_wind_speed_ms,2022,23212,0.93,{0.0: 216}
+kalbar,aws_wind_speed_ms,2023,23212,0.5,{0.0: 116}
+kalbar,aws_wind_speed_ms,2024,23276,0.13,{0.0: 30}
+kalbar,aws_wind_speed_ms,2025,23212,0.0,
+kalbar,aws_rain_mm,2022,23212,0.0,
+kalbar,aws_rain_mm,2023,23212,0.0,
+kalbar,aws_rain_mm,2024,23276,0.0,
+kalbar,aws_rain_mm,2025,23212,0.0,
+kalbar,aws_ghi_wm2,2022,22842,0.0,
+kalbar,aws_ghi_wm2,2023,23181,0.0,
+kalbar,aws_ghi_wm2,2024,23272,0.0,
+kalbar,aws_ghi_wm2,2025,21068,0.0,
+semarang,aws_temp_c,2022,23071,0.08,"{26.8: 6, 27.0: 6, 26.2: 6}"
+semarang,aws_temp_c,2023,23152,0.02,{25.4: 4}
+semarang,aws_temp_c,2024,23288,0.01,{26.8: 2}
+semarang,aws_temp_c,2025,23211,0.0,
+semarang,aws_rh_pct,2022,23031,2.08,"{95.5: 259, 99.9: 208, 85.0: 6}"
+semarang,aws_rh_pct,2023,23152,0.05,"{92.0: 8, 88.0: 4}"
+semarang,aws_rh_pct,2024,23288,0.0,
+semarang,aws_rh_pct,2025,23211,0.0,
+semarang,aws_pressure_hpa,2022,23051,0.0,
+semarang,aws_pressure_hpa,2023,23137,0.02,{1010.4: 5}
+semarang,aws_pressure_hpa,2024,23281,0.0,
+semarang,aws_pressure_hpa,2025,23211,0.03,{1010.0: 6}
+semarang,aws_wind_speed_ms,2022,23219,5.79,"{0.0: 1082, 0.2: 202, 2.4: 9}"
+semarang,aws_wind_speed_ms,2023,23205,1.02,"{0.0: 228, 1.54: 9}"
+semarang,aws_wind_speed_ms,2024,23288,0.01,{0.0: 2}
+semarang,aws_wind_speed_ms,2025,23223,0.27,"{0.0: 45, 1.03: 12, 2.06: 6}"
+semarang,aws_wind_dir_deg,2022,23215,0.55,"{0.0: 62, 34.19: 39, 32.43: 22}"
+semarang,aws_wind_dir_deg,2023,23207,0.98,{0.0: 228}
+semarang,aws_wind_dir_deg,2024,23288,0.01,{0.0: 2}
+semarang,aws_wind_dir_deg,2025,23217,0.18,{0.0: 41}
+semarang,aws_rain_mm,2022,23223,0.0,
+semarang,aws_rain_mm,2023,23223,0.0,
+semarang,aws_rain_mm,2024,23288,0.0,
+semarang,aws_rain_mm,2025,23223,0.0,
+semarang,aws_ghi_wm2,2022,22916,0.0,
+semarang,aws_ghi_wm2,2023,20886,0.0,
+semarang,aws_ghi_wm2,2024,782,0.0,
+semarang,aws_ghi_wm2,2025,2989,0.0,

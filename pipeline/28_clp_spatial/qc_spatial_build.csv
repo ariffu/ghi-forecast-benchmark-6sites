@@ -1,7 +1,0 @@
-site,source,offset_min,clp_cot_nonnull,mean_matched,exact_match_frac,spat_cover_of_clp_cot,cloud_frac_mean_day
-banten,banten.clp_banten,10,90431,90431,1.0,0.9813,0.633
-bengkulu,bengkulu.clp_bengkulu_quality_final,10,102071,91637,1.0,0.8939,0.672
-jambi,jambi.clp_jambi,10,93250,91255,0.99956,0.9629,0.689
-jogja,jogja.clp_jogja_combined,10,94966,90967,1.0,0.9428,0.637
-kalbar,kalbar.clp_pontianak,10,93757,90962,0.99999,0.9702,0.691
-semarang,semarang.clp_semarang,10,95293,89681,1.0,0.9259,0.556

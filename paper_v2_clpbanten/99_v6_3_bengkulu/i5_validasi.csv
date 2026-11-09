@@ -1,0 +1,7 @@
+stasiun,00_data_berubah,00_data_rawfill_berubah,prov_baru,datar_3j,langkah_gt2,S2_amp,S2_puncak
+banten,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_isi_synop_tekanan_datar,aws_isi_synop_tekanan",0,85,1.4,09:39
+bengkulu,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m,aws_wind_speed_ms,aws_wind_speed_roll_180m_mean","aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m,aws_wind_speed_ms,aws_wind_speed_roll_180m_mean","aws_isi_synop_angin,aws_isi_synop_tekanan,aws_isi_synop_tekanan_datar",0,34,1.47,09:39
+jambi,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_isi_synop_tekanan,aws_isi_synop_tekanan_datar",0,29,1.48,09:51
+jogja,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_isi_synop_tekanan,aws_isi_synop_tekanan_datar",0,20,1.27,09:27
+kalbar,,,"aws_isi_synop_tekanan,aws_isi_synop_tekanan_datar",0,153,1.29,09:50
+semarang,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m","aws_isi_synop_tekanan,aws_isi_synop_tekanan_datar",0,23,1.35,09:38

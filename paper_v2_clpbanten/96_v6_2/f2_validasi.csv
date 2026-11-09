@@ -1,0 +1,7 @@
+stasiun,00_data_kolom_beda,00_data_tekanan_dibuang,00_data_rawfill_kolom_beda,00_data_rawfill_tekanan_dibuang,dibuang_%_siang,clearsky_sama,qc_slot_beda_selain_bit8,qc_uji_dtype,bit8,frac_rentang,frac_saat_cot_ada_min,frac_tanpa_cot_siang_median
+banten,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",1928,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",1928,1.6,True,0,uint16,49,0.000–1.000,0.0,
+bengkulu,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",5300,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",5300,4.68,False,81,uint16,1742,0.000–1.000,0.0,
+jambi,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",54,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",54,0.02,True,0,uint16,15,0.000–1.000,0.0,
+jogja,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",42,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",42,0.03,True,0,uint16,59,0.000–1.000,0.0,
+kalbar,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",918,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",918,0.86,True,0,uint16,331,0.000–1.000,0.0,
+semarang,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",259,"aws_pressure_delta_60m,aws_pressure_hpa,aws_pressure_lag_60m",259,0.02,True,0,uint16,44,0.000–1.000,0.0,

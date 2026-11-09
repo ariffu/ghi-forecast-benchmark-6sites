@@ -1,0 +1,17 @@
+{
+ "protokol\\04_daftar_periksa.py": {
+  "sumber": "Manuskrip_versi5\\protokol\\04_daftar_periksa.py",
+  "sha256": "42e3b1e728d738ba7e0271e41dc282cadc488364adaa77569975362e67cb3a26",
+  "ganti": []
+ },
+ "analisis\\v6_01_analisis_tanpa_latih.py": {
+  "sumber": "Manuskrip_versi5\\analisis\\v4_01_analisis_tanpa_latih.py",
+  "sha256": "852ebe0f7ee265a80f90da39d9006f842b4a3766ad4602cc1befa54fab72a1f2",
+  "ganti": [
+   [
+    "assert _common.FEATSET == \"P2\" and _common.CLEARSKY == \"IP\"",
+    "assert _common.FEATSET == \"P2F\" and _common.CLEARSKY == \"IP\" and len(_common.P2_AKTIF) == 44   # Manuskrip V6"
+   ]
+  ]
+ }
+}

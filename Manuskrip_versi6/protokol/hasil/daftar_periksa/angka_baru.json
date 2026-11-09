@@ -1,0 +1,155 @@
+{
+ "spread_R2": [
+  0.0033667913279361583,
+  0.007859831757427771
+ ],
+ "spread_R2_per_site": {
+  "banten": 0.0068,
+  "bengkulu": 0.0048,
+  "jambi": 0.0061,
+  "jogja": 0.0079,
+  "kalbar": 0.0034,
+  "semarang": 0.0056
+ },
+ "spread_skill": [
+  0.011865594866314166,
+  0.022560136894888838
+ ],
+ "spread_RMSE_max": 3.0502664805998165,
+ "best": {
+  "banten": "CatBoost",
+  "bengkulu": "CatBoost",
+  "jambi": "CatBoost",
+  "jogja": "CatBoost",
+  "kalbar": "Transformer_hybrid",
+  "semarang": "CatBoost"
+ },
+ "weakest": {
+  "banten": "LSTM",
+  "bengkulu": "LSTM",
+  "jambi": "MLP",
+  "jogja": "LSTM",
+  "kalbar": "MLP",
+  "semarang": "LSTM"
+ },
+ "n_tree_best": 5,
+ "mlp_gap_max": 0.006077899172680423,
+ "mlp_gap_up3": 0.007,
+ "n_mlp_weakest": 2,
+ "CB_R2": [
+  0.8461580921448627,
+  0.9090135138245354
+ ],
+ "CB_RMSE": [
+  89.3886411517176,
+  102.94665501998163
+ ],
+ "CB_nRMSE": [
+  20.000820014071987,
+  27.1510639718743
+ ],
+ "CB_bias": [
+  -7.2958092749662935,
+  5.90381487697239
+ ],
+ "CB_skill_pers": [
+  0.21540520659894957,
+  0.3167050748406277
+ ],
+ "CB_skill_cp": [
+  0.13294671598784646,
+  0.21421501745433147
+ ],
+ "abstract_R2": "0.85–0.91",
+ "abstract_RMSE": "89–103",
+ "ridge_R2": [
+  0.8163922315905101,
+  0.8865859141143675
+ ],
+ "ridge_skill": [
+  0.13744017113265916,
+  0.21263013865029734
+ ],
+ "CB_minus_ridge": [
+  0.020189427888654344,
+  0.04285072577603617
+ ],
+ "CB_ridge_all_seeds_sig": true,
+ "ratio_gain_to_spread": [
+  3.5749681412001806,
+  10.299092014303648
+ ],
+ "all_arch_above_ridge": true,
+ "T1RULE": true,
+ "nn_runs": 150,
+ "nn_runs_sig_better": 3,
+ "nn_runs_sig_worse": 61,
+ "nn_runs_ns": 86,
+ "seed_sd_median": 0.0010217285168403877,
+ "seed_sd_max": 0.0023052503396488724,
+ "seed_sd_argmax": [
+  "jogja",
+  "Transformer"
+ ],
+ "seed_se5_median": 0.0004569308836410291,
+ "seed_se5_max": 0.0010309392929218715,
+ "spread_seed42": [
+  0.0029677797675569106,
+  0.0074195370040675
+ ],
+ "spread_single_seeds": [
+  0.0029179813101422036,
+  0.009736275814641093
+ ],
+ "spread_median": 0.005862670958284577,
+ "S10_delta": [
+  0.09301351382453549,
+  0.20562525617552696
+ ],
+ "S7_max_abs_diff_s42": 0.018947835500528254,
+ "contoh_hari": {},
+ "fig5a": {
+  "banten": {
+   "LightGBM": 0.8446,
+   "CatBoost": 0.8462,
+   "XGBoost": 0.8458,
+   "MLP": 0.8448,
+   "SP": 0.7273
+  },
+  "bengkulu": {
+   "LightGBM": 0.9075,
+   "CatBoost": 0.909,
+   "XGBoost": 0.9059,
+   "MLP": 0.9062,
+   "SP": 0.8377
+  },
+  "jambi": {
+   "LightGBM": 0.8771,
+   "CatBoost": 0.878,
+   "XGBoost": 0.8763,
+   "MLP": 0.8719,
+   "SP": 0.7387
+  },
+  "jogja": {
+   "LightGBM": 0.8687,
+   "CatBoost": 0.8693,
+   "XGBoost": 0.8693,
+   "MLP": 0.8677,
+   "SP": 0.7347
+  },
+  "kalbar": {
+   "LightGBM": 0.8968,
+   "CatBoost": 0.8979,
+   "XGBoost": 0.8975,
+   "MLP": 0.8951,
+   "SP": 0.8049
+  },
+  "semarang": {
+   "LightGBM": 0.9014,
+   "CatBoost": 0.9032,
+   "XGBoost": 0.9016,
+   "MLP": 0.9011,
+   "SP": 0.8428
+  }
+ }
+}

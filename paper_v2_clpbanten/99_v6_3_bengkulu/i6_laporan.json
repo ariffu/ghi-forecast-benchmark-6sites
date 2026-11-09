@@ -1,0 +1,22 @@
+{
+ "00_data": {
+  "kalibrasi": -3.25,
+  "periode_slot": 12960,
+  "periode_terisi": 8190,
+  "datar_lain": 1920,
+  "datar_lain_terisi": 653,
+  "origin_el5_terisi": 0.945,
+  "langkah_gt2": 85,
+  "sisa_datar": 0
+ },
+ "00_data_rawfill": {
+  "kalibrasi": -3.25,
+  "periode_slot": 12960,
+  "periode_terisi": 8190,
+  "datar_lain": 1920,
+  "datar_lain_terisi": 653,
+  "origin_el5_terisi": 0.945,
+  "langkah_gt2": 85,
+  "sisa_datar": 0
+ }
+}

@@ -1,0 +1,56 @@
+{
+ "synop_cloud_cover_oktas": {
+  "laporan_db": 7163,
+  "laporan_berkas": 18962,
+  "konflik_db_berkas": 6,
+  "laporan_baru_terisi": 11799,
+  "slot_terisi_asof": 113772,
+  "origin_terisi_per_tahun": {
+   "2022": 0.916,
+   "2023": 0.918,
+   "2024": 0.917,
+   "2025": 0.918
+  }
+ },
+ "synop_cm": {
+  "laporan_db": 7131,
+  "laporan_berkas": 18958,
+  "konflik_db_berkas": 7,
+  "laporan_baru_terisi": 11827,
+  "slot_terisi_asof": 113748,
+  "origin_terisi_per_tahun": {
+   "2022": 0.918,
+   "2023": 0.918,
+   "2024": 0.917,
+   "2025": 0.914
+  }
+ },
+ "synop_ch": {
+  "laporan_db": 6104,
+  "laporan_berkas": 17715,
+  "konflik_db_berkas": 2,
+  "laporan_baru_terisi": 11611,
+  "slot_terisi_asof": 106290,
+  "origin_terisi_per_tahun": {
+   "2022": 0.903,
+   "2023": 0.906,
+   "2024": 0.863,
+   "2025": 0.789
+  }
+ },
+ "okta_rata_per_jam_wib": {
+  "7": 4.98,
+  "8": 4.88,
+  "9": 4.91,
+  "10": 5.04,
+  "11": 5.29,
+  "12": 5.48,
+  "13": 5.69,
+  "14": 5.8,
+  "15": 5.86,
+  "16": 5.95,
+  "17": 6.01,
+  "18": 5.95,
+  "19": 5.64
+ }
+}

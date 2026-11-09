@@ -1,0 +1,485 @@
+{
+ "banten": {
+  "c_tekanan": -3.25,
+  "sisipan": {
+   "angin_knot": 7795,
+   "angin": 11850,
+   "tekanan": 237,
+   "suhu": 16359,
+   "rh": 16810
+  },
+  "minggu_gagal": {
+   "suhu": [
+    202444,
+    202601
+   ],
+   "rh": [],
+   "tekanan": [
+    202214
+   ],
+   "angin": [
+    202352,
+    202438,
+    202501,
+    202503,
+    202537,
+    202546
+   ],
+   "arah": []
+  },
+  "residu_sesudah": {
+   "suhu": {
+    "median_abs_bulanan_maks": 0.53,
+    "median_bulanan": -0.027
+   },
+   "rh": {
+    "median_abs_bulanan_maks": 3.52,
+    "median_bulanan": -0.229
+   },
+   "tekanan": {
+    "median_abs_bulanan_maks": 0.0,
+    "median_bulanan": 0.0
+   },
+   "angin_rasio": {
+    "min": 0.96,
+    "maks": 1.05
+   }
+  },
+  "isi_slot": {
+   "met_isi_suhu": 1440,
+   "met_isi_rh": 0,
+   "met_isi_tekanan": 1008,
+   "met_isi_angin": 6048,
+   "met_isi_arah": 0
+  }
+ },
+ "bengkulu": {
+  "c_tekanan": -1.023,
+  "sisipan": {
+   "angin_knot": 19,
+   "angin": 295,
+   "tekanan": 29,
+   "suhu": 410,
+   "rh": 208
+  },
+  "minggu_gagal": {
+   "suhu": [
+    202217,
+    202219,
+    202423,
+    202424
+   ],
+   "rh": [
+    202423,
+    202424
+   ],
+   "tekanan": [
+    202217,
+    202218,
+    202219,
+    202241
+   ],
+   "angin": [
+    202217,
+    202427,
+    202428,
+    202429,
+    202430,
+    202431,
+    202432,
+    202433,
+    202434,
+    202435,
+    202436,
+    202437,
+    202438,
+    202439,
+    202440,
+    202441,
+    202442,
+    202443,
+    202444,
+    202445,
+    202446,
+    202447,
+    202448,
+    202449,
+    202450,
+    202451,
+    202452,
+    202501,
+    202502,
+    202503,
+    202504,
+    202505,
+    202506,
+    202507,
+    202508,
+    202509,
+    202510,
+    202511,
+    202512,
+    202513,
+    202514,
+    202515,
+    202516,
+    202517,
+    202518,
+    202519,
+    202520,
+    202521,
+    202522,
+    202523,
+    202524,
+    202525,
+    202526,
+    202527,
+    202528,
+    202529,
+    202530,
+    202531,
+    202532,
+    202533,
+    202534,
+    202535
+   ],
+   "arah": [
+    202217
+   ]
+  },
+  "residu_sesudah": {
+   "suhu": {
+    "median_abs_bulanan_maks": 0.04,
+    "median_bulanan": 0.0
+   },
+   "rh": {
+    "median_abs_bulanan_maks": 0.66,
+    "median_bulanan": 0.002
+   },
+   "tekanan": {
+    "median_abs_bulanan_maks": 0.02,
+    "median_bulanan": 0.001
+   },
+   "angin_rasio": {
+    "min": 0.94,
+    "maks": 1.02
+   }
+  },
+  "isi_slot": {
+   "met_isi_suhu": 4032,
+   "met_isi_rh": 2016,
+   "met_isi_tekanan": 4032,
+   "met_isi_angin": 62496,
+   "met_isi_arah": 1008
+  }
+ },
+ "jambi": {
+  "c_tekanan": "hipsometrik, median -2.760",
+  "sisipan": {
+   "angin_knot": 0,
+   "angin": 32796,
+   "tekanan": 14851,
+   "suhu": 28808,
+   "rh": 31561
+  },
+  "minggu_gagal": {
+   "suhu": [
+    202222,
+    202230,
+    202234,
+    202235,
+    202544
+   ],
+   "rh": [
+    202202,
+    202227,
+    202544
+   ],
+   "tekanan": [
+    202152,
+    202202,
+    202212,
+    202226,
+    202227,
+    202229,
+    202230,
+    202235,
+    202236,
+    202237
+   ],
+   "angin": [
+    202152,
+    202211,
+    202212,
+    202216,
+    202220,
+    202221,
+    202224,
+    202226,
+    202227,
+    202229,
+    202230,
+    202235,
+    202236,
+    202237,
+    202248,
+    202446
+   ],
+   "arah": []
+  },
+  "residu_sesudah": {
+   "suhu": {
+    "median_abs_bulanan_maks": 0.22,
+    "median_bulanan": -0.08
+   },
+   "rh": {
+    "median_abs_bulanan_maks": 1.07,
+    "median_bulanan": -0.194
+   },
+   "tekanan": {
+    "median_abs_bulanan_maks": 0.1,
+    "median_bulanan": 0.001
+   },
+   "angin_rasio": {
+    "min": 0.55,
+    "maks": 1.21
+   }
+  },
+  "isi_slot": {
+   "met_isi_suhu": 5040,
+   "met_isi_rh": 3024,
+   "met_isi_tekanan": 9360,
+   "met_isi_angin": 15408,
+   "met_isi_arah": 0
+  }
+ },
+ "jogja": {
+  "c_tekanan": -0.269,
+  "sisipan": {
+   "angin_knot": 23,
+   "angin": 844,
+   "tekanan": 1511,
+   "suhu": 505,
+   "rh": 569
+  },
+  "minggu_gagal": {
+   "suhu": [],
+   "rh": [],
+   "tekanan": [
+    202410,
+    202440,
+    202446,
+    202447,
+    202448,
+    202449,
+    202450,
+    202451,
+    202452,
+    202501,
+    202502,
+    202503,
+    202504,
+    202505,
+    202506,
+    202531,
+    202532,
+    202533,
+    202534,
+    202536,
+    202537,
+    202538,
+    202539,
+    202540
+   ],
+   "angin": [],
+   "arah": []
+  },
+  "residu_sesudah": {
+   "suhu": {
+    "median_abs_bulanan_maks": 0.02,
+    "median_bulanan": 0.0
+   },
+   "rh": {
+    "median_abs_bulanan_maks": 0.49,
+    "median_bulanan": 0.0
+   },
+   "tekanan": {
+    "median_abs_bulanan_maks": 0.09,
+    "median_bulanan": 0.0
+   },
+   "angin_rasio": {
+    "min": 0.98,
+    "maks": 1.03
+   }
+  },
+  "isi_slot": {
+   "met_isi_suhu": 0,
+   "met_isi_rh": 0,
+   "met_isi_tekanan": 24192,
+   "met_isi_angin": 0,
+   "met_isi_arah": 0
+  }
+ },
+ "kalbar": {
+  "c_tekanan": -0.546,
+  "sisipan": {
+   "angin_knot": 50,
+   "angin": 1595,
+   "tekanan": 145,
+   "suhu": 101,
+   "rh": 48
+  },
+  "minggu_gagal": {
+   "suhu": [
+    202410,
+    202531,
+    202532,
+    202533,
+    202534,
+    202535,
+    202536,
+    202537,
+    202538,
+    202539,
+    202540,
+    202541,
+    202542,
+    202544,
+    202545,
+    202546,
+    202547,
+    202548,
+    202549,
+    202550,
+    202551,
+    202552,
+    202601
+   ],
+   "rh": [],
+   "tekanan": [
+    202549,
+    202550,
+    202551,
+    202552,
+    202601
+   ],
+   "angin": [
+    202223,
+    202235,
+    202238,
+    202249,
+    202250,
+    202251,
+    202302,
+    202304,
+    202413,
+    202549,
+    202550,
+    202551,
+    202552,
+    202601
+   ],
+   "arah": []
+  },
+  "residu_sesudah": {
+   "suhu": {
+    "median_abs_bulanan_maks": 0.08,
+    "median_bulanan": 0.0
+   },
+   "rh": {
+    "median_abs_bulanan_maks": 0.46,
+    "median_bulanan": 0.0
+   },
+   "tekanan": {
+    "median_abs_bulanan_maks": 0.01,
+    "median_bulanan": 0.0
+   },
+   "angin_rasio": {
+    "min": 0.97,
+    "maks": 1.06
+   }
+  },
+  "isi_slot": {
+   "met_isi_suhu": 22608,
+   "met_isi_rh": 0,
+   "met_isi_tekanan": 4464,
+   "met_isi_angin": 13536,
+   "met_isi_arah": 0
+  }
+ },
+ "semarang": {
+  "c_tekanan": -0.535,
+  "sisipan": {
+   "angin_knot": 20,
+   "angin": 1829,
+   "tekanan": 2094,
+   "suhu": 2270,
+   "rh": 2174
+  },
+  "minggu_gagal": {
+   "suhu": [],
+   "rh": [
+    202219,
+    202224
+   ],
+   "tekanan": [],
+   "angin": [
+    202248,
+    202249,
+    202250,
+    202251
+   ],
+   "arah": [
+    202241,
+    202242,
+    202244,
+    202245,
+    202247,
+    202248,
+    202316,
+    202317,
+    202344,
+    202345,
+    202349,
+    202401,
+    202403,
+    202445,
+    202446,
+    202448,
+    202510,
+    202516,
+    202520,
+    202545,
+    202546,
+    202548,
+    202550,
+    202551
+   ]
+  },
+  "residu_sesudah": {
+   "suhu": {
+    "median_abs_bulanan_maks": 0.02,
+    "median_bulanan": 0.0
+   },
+   "rh": {
+    "median_abs_bulanan_maks": 0.4,
+    "median_bulanan": 0.0
+   },
+   "tekanan": {
+    "median_abs_bulanan_maks": 0.1,
+    "median_bulanan": 0.0
+   },
+   "angin_rasio": {
+    "min": 0.96,
+    "maks": 1.21
+   }
+  },
+  "isi_slot": {
+   "met_isi_suhu": 0,
+   "met_isi_rh": 2016,
+   "met_isi_tekanan": 0,
+   "met_isi_angin": 4032,
+   "met_isi_arah": 24192
+  }
+ }
+}

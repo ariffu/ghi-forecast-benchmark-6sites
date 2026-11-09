@@ -1,0 +1,7 @@
+stasiun,baris,unik,urut,langkah,tz,awal,akhir,site_id
+banten,210384,True,True,[Timedelta('0 days 00:10:00')],None,2022-01-01 00:00:00,2025-12-31 23:50:00,banten
+bengkulu,210384,True,True,[Timedelta('0 days 00:10:00')],None,2022-01-01 00:00:00,2025-12-31 23:50:00,bengkulu
+jambi,210384,True,True,[Timedelta('0 days 00:10:00')],None,2022-01-01 00:00:00,2025-12-31 23:50:00,jambi
+jogja,210384,True,True,[Timedelta('0 days 00:10:00')],None,2022-01-01 00:00:00,2025-12-31 23:50:00,jogja
+kalbar,210384,True,True,[Timedelta('0 days 00:10:00')],None,2022-01-01 00:00:00,2025-12-31 23:50:00,kalbar
+semarang,210384,True,True,[Timedelta('0 days 00:10:00')],None,2022-01-01 00:00:00,2025-12-31 23:50:00,semarang

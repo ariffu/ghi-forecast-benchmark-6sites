@@ -1,0 +1,746 @@
+{
+ "sumber": {
+  "banten": {
+   "2022": {
+    "logger": 70.8127780024262,
+    "terukur": 99.94338859684594,
+    "komposisi": {
+     "logger": 70.81,
+     "db": 28.85,
+     "portal": 0.28,
+     "estimasi_aws": 0.06
+    }
+   },
+   "2023": {
+    "logger": 99.0173877881116,
+    "terukur": 99.80186008896078,
+    "komposisi": {
+     "logger": 99.02,
+     "portal": 0.72,
+     "estimasi_aws": 0.19,
+     "db": 0.06,
+     "kosong": 0.0
+    }
+   },
+   "2024": {
+    "logger": 99.71774193548387,
+    "terukur": 100.0,
+    "komposisi": {
+     "logger": 99.72,
+     "db": 0.27,
+     "portal": 0.02
+    }
+   },
+   "2025": {
+    "logger": 77.60210270926001,
+    "terukur": 97.44844318641326,
+    "komposisi": {
+     "logger": 77.6,
+     "portal": 18.99,
+     "estimasi_aws": 2.53,
+     "db": 0.86,
+     "kosong": 0.02
+    }
+   }
+  },
+  "bengkulu": {
+   "2022": {
+    "logger": 95.63809986242615,
+    "terukur": 97.04620862668932,
+    "komposisi": {
+     "logger": 95.64,
+     "db": 4.36
+    }
+   },
+   "2023": {
+    "logger": 98.95605729546007,
+    "terukur": 99.49016751638747,
+    "komposisi": {
+     "logger": 98.96,
+     "db": 1.04
+    }
+   },
+   "2024": {
+    "logger": 99.79824879958036,
+    "terukur": 99.83456401565589,
+    "komposisi": {
+     "logger": 99.8,
+     "db": 0.2
+    }
+   },
+   "2025": {
+    "logger": 99.81791697013838,
+    "terukur": 99.85028728655823,
+    "komposisi": {
+     "logger": 99.82,
+     "db": 0.18
+    }
+   }
+  },
+  "jambi": {
+   "2022": {
+    "logger": 92.2853219161483,
+    "terukur": 92.8265611115599,
+    "komposisi": {
+     "logger": 92.29,
+     "db": 7.71
+    }
+   },
+   "2023": {
+    "logger": 99.80612327328541,
+    "terukur": 99.93941352290169,
+    "komposisi": {
+     "logger": 99.81,
+     "db": 0.19
+    }
+   },
+   "2024": {
+    "logger": 77.32619028437928,
+    "terukur": 86.02271811810199,
+    "komposisi": {
+     "logger": 77.33,
+     "db": 22.67
+    }
+   },
+   "2025": {
+    "logger": 88.88844010016965,
+    "terukur": 93.71112367719525,
+    "komposisi": {
+     "logger": 88.89,
+     "db": 11.11
+    }
+   }
+  },
+  "jogja": {
+   "2022": {
+    "logger": 57.96767676767677,
+    "terukur": 95.56363636363636,
+    "komposisi": {
+     "logger": 57.97,
+     "db_trapesium": 41.98,
+     "db": 0.05
+    }
+   },
+   "2023": {
+    "logger": 99.97979797979798,
+    "terukur": 100.0,
+    "komposisi": {
+     "logger": 99.98,
+     "db_trapesium": 0.02
+    }
+   },
+   "2024": {
+    "logger": 99.82272360999194,
+    "terukur": 99.97582594681708,
+    "komposisi": {
+     "logger": 99.82,
+     "db_trapesium": 0.18
+    }
+   },
+   "2025": {
+    "logger": 98.51717171717172,
+    "terukur": 99.97979797979798,
+    "komposisi": {
+     "logger": 98.52,
+     "db_trapesium": 1.48
+    }
+   }
+  },
+  "kalbar": {
+   "2022": {
+    "logger": 2.5764439411098525,
+    "terukur": 80.10030739362563,
+    "komposisi": {
+     "tabel_10min": 41.66,
+     "db_trapesium": 32.94,
+     "db": 22.82,
+     "logger": 2.58
+    }
+   },
+   "2023": {
+    "logger": 78.59569648924122,
+    "terukur": 95.680310629348,
+    "komposisi": {
+     "logger": 78.6,
+     "db_trapesium": 11.29,
+     "tabel_10min": 6.34,
+     "db": 3.77
+    }
+   },
+   "2024": {
+    "logger": 81.65537270087125,
+    "terukur": 94.34091642465312,
+    "komposisi": {
+     "logger": 81.66,
+     "db": 15.61,
+     "db_trapesium": 1.39,
+     "tabel_10min": 1.35
+    }
+   },
+   "2025": {
+    "logger": 92.38391845979615,
+    "terukur": 94.31321792590197,
+    "komposisi": {
+     "logger": 92.38,
+     "db": 7.62
+    }
+   }
+  },
+  "semarang": {
+   "2022": {
+    "logger": 41.92478770723817,
+    "terukur": 94.26202992317025,
+    "komposisi": {
+     "db_trapesium": 58.0,
+     "logger": 41.92,
+     "db": 0.08
+    }
+   },
+   "2023": {
+    "logger": 81.79943388596847,
+    "terukur": 98.84755357864941,
+    "komposisi": {
+     "logger": 81.8,
+     "db_trapesium": 18.14,
+     "db": 0.06
+    }
+   },
+   "2024": {
+    "logger": 98.87096774193549,
+    "terukur": 99.79032258064517,
+    "komposisi": {
+     "logger": 98.87,
+     "db_trapesium": 1.13
+    }
+   },
+   "2025": {
+    "logger": 98.0469065911848,
+    "terukur": 98.59280226445613,
+    "komposisi": {
+     "logger": 98.05,
+     "db_trapesium": 1.95
+    }
+   }
+  }
+ },
+ "sampel": {
+  "banten|penuh": {
+   "site": "banten",
+   "sampel": "penuh",
+   "n": 24670.0,
+   "porsi": 1.0,
+   "SP": 0.7273443652601632,
+   "CatBoost": 0.8461580921448627,
+   "RMSE": 98.23713707857699,
+   "skill": 0.24884427325709257,
+   "dCLP_CB": 0.016706097891100335,
+   "dCLP_LGB": 0.016918562124571213
+  },
+  "banten|logger": {
+   "site": "banten",
+   "sampel": "logger",
+   "n": 19175.0,
+   "porsi": 0.7772598297527361,
+   "SP": 0.7264817272291606,
+   "CatBoost": 0.8471329187957659,
+   "RMSE": 98.34072738751743,
+   "skill": 0.2524097621157977,
+   "dCLP_CB": 0.015327279105693536,
+   "dCLP_LGB": 0.0161182544202354
+  },
+  "banten|logger_portal": {
+   "site": "banten",
+   "sampel": "logger_portal",
+   "n": 23760.0,
+   "porsi": 0.9631130928252939,
+   "SP": 0.7287070512477343,
+   "CatBoost": 0.8464510102269138,
+   "RMSE": 98.4021184329326,
+   "skill": 0.2476773747450074,
+   "dCLP_CB": 0.01615061878522317,
+   "dCLP_LGB": 0.01636891531855944
+  },
+  "bengkulu|penuh": {
+   "site": "bengkulu",
+   "sampel": "penuh",
+   "n": 24714.0,
+   "porsi": 1.0,
+   "SP": 0.8376909214639663,
+   "CatBoost": 0.9090135138245357,
+   "RMSE": 89.52916095999277,
+   "skill": 0.25128584218105376,
+   "dCLP_CB": 0.016101042720464198,
+   "dCLP_LGB": 0.014752836038271933
+  },
+  "bengkulu|logger": {
+   "site": "bengkulu",
+   "sampel": "logger",
+   "n": 24627.0,
+   "porsi": 0.996479728089342,
+   "SP": 0.8375387245248136,
+   "CatBoost": 0.9088779612020023,
+   "RMSE": 89.60862594989348,
+   "skill": 0.25107937777192213,
+   "dCLP_CB": 0.016120675619301084,
+   "dCLP_LGB": 0.014769963776668837
+  },
+  "jambi|penuh": {
+   "site": "jambi",
+   "sampel": "penuh",
+   "n": 24758.0,
+   "porsi": 1.0,
+   "SP": 0.7386772390627787,
+   "CatBoost": 0.8779904899805725,
+   "RMSE": 89.65806650846078,
+   "skill": 0.3167050748406277,
+   "dCLP_CB": 0.028015554876925752,
+   "dCLP_LGB": 0.028685992914325276
+  },
+  "jambi|logger": {
+   "site": "jambi",
+   "sampel": "logger",
+   "n": 21741.0,
+   "porsi": 0.8781403990629292,
+   "SP": 0.7391274895471717,
+   "CatBoost": 0.8803948509707216,
+   "RMSE": 89.76913177487289,
+   "skill": 0.3228876566822827,
+   "dCLP_CB": 0.0268562823921632,
+   "dCLP_LGB": 0.027178675076292125
+  },
+  "jogja|penuh": {
+   "site": "jogja",
+   "sampel": "penuh",
+   "n": 24750.0,
+   "porsi": 1.0,
+   "SP": 0.7347168096622975,
+   "CatBoost": 0.8693252561755269,
+   "RMSE": 102.94665501998165,
+   "skill": 0.2981559347165089,
+   "dCLP_CB": 0.023965288351725178,
+   "dCLP_LGB": 0.023988789518813003
+  },
+  "jogja|logger": {
+   "site": "jogja",
+   "sampel": "logger",
+   "n": 24356.0,
+   "porsi": 0.9840808080808081,
+   "SP": 0.7348211994378644,
+   "CatBoost": 0.8688783435437143,
+   "RMSE": 102.9852424405137,
+   "skill": 0.2968184435503306,
+   "dCLP_CB": 0.02416980230397081,
+   "dCLP_LGB": 0.02421530331095978
+  },
+  "kalbar|penuh": {
+   "site": "kalbar",
+   "sampel": "penuh",
+   "n": 24724.0,
+   "porsi": 1.0,
+   "SP": 0.8048761463689146,
+   "CatBoost": 0.897863255567595,
+   "RMSE": 98.07503364145965,
+   "skill": 0.2765046067072128,
+   "dCLP_CB": 0.019463831898421158,
+   "dCLP_LGB": 0.019345184415332506
+  },
+  "kalbar|logger": {
+   "site": "kalbar",
+   "sampel": "logger",
+   "n": 22482.0,
+   "porsi": 0.9093188804400583,
+   "SP": 0.8107078379791808,
+   "CatBoost": 0.9003975802948296,
+   "RMSE": 97.85671001195047,
+   "skill": 0.2746149655309523,
+   "dCLP_CB": 0.018618137827569492,
+   "dCLP_LGB": 0.018652791474582764
+  },
+  "semarang|penuh": {
+   "site": "semarang",
+   "sampel": "penuh",
+   "n": 24730.0,
+   "porsi": 1.0,
+   "SP": 0.8427859674846906,
+   "CatBoost": 0.9032207007078862,
+   "RMSE": 89.38864115171758,
+   "skill": 0.21540520659894968,
+   "dCLP_CB": 0.013284618554526673,
+   "dCLP_LGB": 0.012401651849430206
+  },
+  "semarang|logger": {
+   "site": "semarang",
+   "sampel": "logger",
+   "n": 24173.0,
+   "porsi": 0.9774767488879903,
+   "SP": 0.8429618252277503,
+   "CatBoost": 0.9045357184586947,
+   "RMSE": 88.81701280270434,
+   "skill": 0.22031766966440813,
+   "dCLP_CB": 0.013609724947364565,
+   "dCLP_LGB": 0.012919686962894583
+  }
+ },
+ "satelit": {
+  "banten": {
+   "h09_pertama": "2022-12-13",
+   "h08_2025": [
+    [
+     "2025-10-12",
+     "2025-11-25"
+    ]
+   ],
+   "hari_uji_h08": 45,
+   "hari_uji_h09": 320,
+   "turun_rmse_clp_pct": {
+    "H08": 4.989026697876453,
+    "H09": 4.940743239787926
+   }
+  },
+  "bengkulu": {
+   "h09_pertama": "2022-12-13",
+   "h08_2025": [
+    [
+     "2025-10-12",
+     "2025-11-25"
+    ]
+   ],
+   "hari_uji_h08": 45,
+   "hari_uji_h09": 320,
+   "turun_rmse_clp_pct": {
+    "H08": 5.324788401134306,
+    "H09": 7.353557133724154
+   }
+  },
+  "jambi": {
+   "h09_pertama": "2022-12-13",
+   "h08_2025": [
+    [
+     "2025-10-12",
+     "2025-11-25"
+    ]
+   ],
+   "hari_uji_h08": 45,
+   "hari_uji_h09": 320,
+   "turun_rmse_clp_pct": {
+    "H08": 10.461428685272677,
+    "H09": 9.987098669980076
+   }
+  },
+  "jogja": {
+   "h09_pertama": "2022-12-13",
+   "h08_2025": [
+    [
+     "2025-10-12",
+     "2025-11-25"
+    ]
+   ],
+   "hari_uji_h08": 45,
+   "hari_uji_h09": 320,
+   "turun_rmse_clp_pct": {
+    "H08": 7.865478640153157,
+    "H09": 8.095648057355032
+   }
+  },
+  "kalbar": {
+   "h09_pertama": "2022-12-13",
+   "h08_2025": [
+    [
+     "2025-10-12",
+     "2025-11-25"
+    ]
+   ],
+   "hari_uji_h08": 45,
+   "hari_uji_h09": 320,
+   "turun_rmse_clp_pct": {
+    "H08": 11.915357146251793,
+    "H09": 7.444442188233302
+   }
+  },
+  "semarang": {
+   "h09_pertama": "2022-12-13",
+   "h08_2025": [
+    [
+     "2025-10-12",
+     "2025-11-25"
+    ]
+   ],
+   "hari_uji_h08": 45,
+   "hari_uji_h09": 320,
+   "turun_rmse_clp_pct": {
+    "H08": 4.439217953681151,
+    "H09": 6.070643931639818
+   }
+  }
+ },
+ "dhi_dni": {
+  "banten": {
+   "2022": {
+    "dhi": {
+     "asli": 70.95,
+     "logger_2022": 28.62,
+     "model_isi": 0.29,
+     "diperbaiki_tahap85": 0.14
+    },
+    "dni": {
+     "asli": 69.66,
+     "logger_2022": 28.58,
+     "diperbaiki_tahap85": 1.44,
+     "hitung_neraca": 0.33
+    }
+   },
+   "2023": {
+    "dhi": {
+     "asli": 99.58,
+     "model_isi": 0.27,
+     "diperbaiki_tahap85": 0.15,
+     "kosong": 0.0
+    },
+    "dni": {
+     "asli": 93.49,
+     "diperbaiki_tahap85": 6.24,
+     "hitung_neraca": 0.27,
+     "kosong": 0.0
+    }
+   },
+   "2024": {
+    "dhi": {
+     "asli": 99.48,
+     "model_isi": 0.27,
+     "diperbaiki_tahap85": 0.25
+    },
+    "dni": {
+     "asli": 95.59,
+     "diperbaiki_tahap85": 4.15,
+     "hitung_neraca": 0.27
+    }
+   },
+   "2025": {
+    "dhi": {
+     "asli": 96.22,
+     "model_isi": 3.38,
+     "diperbaiki_tahap85": 0.37,
+     "kosong": 0.02
+    },
+    "dni": {
+     "asli": 94.15,
+     "hitung_neraca": 3.38,
+     "diperbaiki_tahap85": 2.44,
+     "kosong": 0.02
+    }
+   }
+  },
+  "bengkulu": {
+   "2022": {
+    "dhi": {
+     "asli": 99.99,
+     "diperbaiki_tahap85": 0.01
+    },
+    "dni": {
+     "asli": 99.89,
+     "diperbaiki_tahap85": 0.11
+    }
+   },
+   "2023": {
+    "dhi": {
+     "asli": 100.0
+    },
+    "dni": {
+     "asli": 100.0
+    }
+   },
+   "2024": {
+    "dhi": {
+     "asli": 100.0
+    },
+    "dni": {
+     "asli": 100.0
+    }
+   },
+   "2025": {
+    "dhi": {
+     "asli": 100.0
+    },
+    "dni": {
+     "asli": 92.36,
+     "diperbaiki_tahap85": 7.64
+    }
+   }
+  },
+  "jambi": {
+   "2022": {
+    "dhi": {
+     "asli": 100.0
+    },
+    "dni": {
+     "asli": 92.38,
+     "diperbaiki_tahap85": 7.62
+    }
+   },
+   "2023": {
+    "dhi": {
+     "asli": 99.86,
+     "diperbaiki_tahap85": 0.14
+    },
+    "dni": {
+     "asli": 95.38,
+     "diperbaiki_tahap85": 4.62
+    }
+   },
+   "2024": {
+    "dhi": {
+     "asli": 99.91,
+     "diperbaiki_tahap85": 0.09
+    },
+    "dni": {
+     "asli": 98.99,
+     "diperbaiki_tahap85": 1.01
+    }
+   },
+   "2025": {
+    "dhi": {
+     "asli": 99.95,
+     "diperbaiki_tahap85": 0.05
+    },
+    "dni": {
+     "asli": 94.47,
+     "diperbaiki_tahap85": 5.53
+    }
+   }
+  },
+  "jogja": {
+   "2022": {
+    "dhi": {
+     "asli": 95.16,
+     "diperbaiki_tahap85": 4.84
+    },
+    "dni": {
+     "asli": 75.33,
+     "diperbaiki_tahap85": 24.67
+    }
+   },
+   "2023": {
+    "dhi": {
+     "asli": 94.25,
+     "diperbaiki_tahap85": 5.75
+    },
+    "dni": {
+     "asli": 66.71,
+     "diperbaiki_tahap85": 33.29
+    }
+   },
+   "2024": {
+    "dhi": {
+     "asli": 94.36,
+     "diperbaiki_tahap85": 5.64
+    },
+    "dni": {
+     "asli": 66.4,
+     "diperbaiki_tahap85": 33.6
+    }
+   },
+   "2025": {
+    "dhi": {
+     "asli": 93.72,
+     "diperbaiki_tahap85": 6.28
+    },
+    "dni": {
+     "asli": 66.21,
+     "diperbaiki_tahap85": 33.79
+    }
+   }
+  },
+  "kalbar": {
+   "2022": {
+    "dhi": {
+     "asli": 58.09,
+     "diperbaiki_tahap85": 41.91
+    },
+    "dni": {
+     "asli": 59.77,
+     "diperbaiki_tahap85": 40.23
+    }
+   },
+   "2023": {
+    "dhi": {
+     "asli": 94.78,
+     "diperbaiki_tahap85": 5.22
+    },
+    "dni": {
+     "asli": 66.2,
+     "diperbaiki_tahap85": 33.8
+    }
+   },
+   "2024": {
+    "dhi": {
+     "asli": 92.76,
+     "diperbaiki_tahap85": 7.24
+    },
+    "dni": {
+     "asli": 63.29,
+     "diperbaiki_tahap85": 36.71
+    }
+   },
+   "2025": {
+    "dhi": {
+     "asli": 99.92,
+     "diperbaiki_tahap85": 0.08
+    },
+    "dni": {
+     "asli": 93.55,
+     "diperbaiki_tahap85": 6.45
+    }
+   }
+  },
+  "semarang": {
+   "2022": {
+    "dhi": {
+     "asli": 98.88,
+     "diperbaiki_tahap85": 1.12
+    },
+    "dni": {
+     "asli": 85.29,
+     "diperbaiki_tahap85": 14.71
+    }
+   },
+   "2023": {
+    "dhi": {
+     "asli": 98.14,
+     "diperbaiki_tahap85": 1.86
+    },
+    "dni": {
+     "asli": 71.73,
+     "diperbaiki_tahap85": 28.27
+    }
+   },
+   "2024": {
+    "dhi": {
+     "asli": 97.42,
+     "diperbaiki_tahap85": 2.58
+    },
+    "dni": {
+     "asli": 74.4,
+     "diperbaiki_tahap85": 25.6
+    }
+   },
+   "2025": {
+    "dhi": {
+     "asli": 96.32,
+     "diperbaiki_tahap85": 3.68
+    },
+    "dni": {
+     "asli": 72.1,
+     "diperbaiki_tahap85": 27.9
+    }
+   }
+  }
+ },
+ "turun_h08": [
+  4.439217953681151,
+  11.915357146251793
+ ],
+ "turun_h09": [
+  4.940743239787926,
+  9.987098669980076
+ ]
+}

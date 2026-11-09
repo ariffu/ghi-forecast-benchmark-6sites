@@ -1,0 +1,232 @@
+{
+ "banten": {
+  "c_tekanan": -3.25,
+  "synop_dibuang": {
+   "tekanan": 5,
+   "suhu": 15,
+   "rh": 7
+  },
+  "sisipan": {
+   "suhu": 16359,
+   "rh": 16810,
+   "tekanan": 8,
+   "angin": 9324,
+   "angin_knot": 5269
+  },
+  "lonjakan_angin_dibuang": 25,
+  "fraksi_dari_synop_latih": {
+   "suhu": 0.832,
+   "rh": 0.814,
+   "tekanan": 0.007,
+   "angin": 0.084
+  },
+  "bangun_ulang": [
+   "rh",
+   "suhu"
+  ],
+  "minggu_gagal": {
+   "suhu": 0,
+   "rh": 0,
+   "tekanan": 4,
+   "angin": 6,
+   "arah": 0
+  },
+  "isi_slot": {
+   "met_isi_suhu": 0,
+   "met_isi_rh": 0,
+   "met_isi_tekanan": 4032,
+   "met_isi_angin": 6048,
+   "met_isi_arah": 0
+  }
+ },
+ "bengkulu": {
+  "c_tekanan": -1.023,
+  "synop_dibuang": {
+   "tekanan": 1,
+   "suhu": 0,
+   "rh": 0
+  },
+  "sisipan": {
+   "suhu": 410,
+   "rh": 208,
+   "tekanan": 1,
+   "angin": 277,
+   "angin_knot": 1
+  },
+  "lonjakan_angin_dibuang": 0,
+  "fraksi_dari_synop_latih": {
+   "suhu": 0.007,
+   "rh": 0.004,
+   "tekanan": 0.004,
+   "angin": 0.005
+  },
+  "bangun_ulang": [],
+  "minggu_gagal": {
+   "suhu": 4,
+   "rh": 2,
+   "tekanan": 4,
+   "angin": 62,
+   "arah": 1
+  },
+  "isi_slot": {
+   "met_isi_suhu": 4032,
+   "met_isi_rh": 2016,
+   "met_isi_tekanan": 4032,
+   "met_isi_angin": 62496,
+   "met_isi_arah": 1008
+  }
+ },
+ "jambi": {
+  "c_tekanan": "hipsometrik -2.760",
+  "synop_dibuang": {
+   "tekanan": 13,
+   "suhu": 2,
+   "rh": 0
+  },
+  "sisipan": {
+   "suhu": 28808,
+   "rh": 31561,
+   "tekanan": 14851,
+   "angin": 32796,
+   "angin_knot": 0
+  },
+  "lonjakan_angin_dibuang": 0,
+  "fraksi_dari_synop_latih": {
+   "suhu": 0.898,
+   "rh": 0.859,
+   "tekanan": 0.248,
+   "angin": 0.845
+  },
+  "bangun_ulang": [
+   "angin",
+   "rh",
+   "suhu",
+   "tekanan"
+  ],
+  "minggu_gagal": {
+   "suhu": 0,
+   "rh": 0,
+   "tekanan": 0,
+   "angin": 0,
+   "arah": 0
+  },
+  "isi_slot": {
+   "met_isi_suhu": 0,
+   "met_isi_rh": 0,
+   "met_isi_tekanan": 0,
+   "met_isi_angin": 0,
+   "met_isi_arah": 0
+  }
+ },
+ "jogja": {
+  "c_tekanan": -0.269,
+  "synop_dibuang": {
+   "tekanan": 19,
+   "suhu": 3,
+   "rh": 1
+  },
+  "sisipan": {
+   "suhu": 505,
+   "rh": 569,
+   "tekanan": 1511,
+   "angin": 822,
+   "angin_knot": 1
+  },
+  "lonjakan_angin_dibuang": 1,
+  "fraksi_dari_synop_latih": {
+   "suhu": 0.009,
+   "rh": 0.008,
+   "tekanan": 0.03,
+   "angin": 0.01
+  },
+  "bangun_ulang": [],
+  "minggu_gagal": {
+   "suhu": 0,
+   "rh": 0,
+   "tekanan": 24,
+   "angin": 0,
+   "arah": 0
+  },
+  "isi_slot": {
+   "met_isi_suhu": 0,
+   "met_isi_rh": 0,
+   "met_isi_tekanan": 24192,
+   "met_isi_angin": 0,
+   "met_isi_arah": 0
+  }
+ },
+ "kalbar": {
+  "c_tekanan": -0.546,
+  "synop_dibuang": {
+   "tekanan": 6,
+   "suhu": 2,
+   "rh": 0
+  },
+  "sisipan": {
+   "suhu": 101,
+   "rh": 48,
+   "tekanan": 3,
+   "angin": 1552,
+   "angin_knot": 7
+  },
+  "lonjakan_angin_dibuang": 0,
+  "fraksi_dari_synop_latih": {
+   "suhu": 0.004,
+   "rh": 0.026,
+   "tekanan": 0.005,
+   "angin": 0.017
+  },
+  "bangun_ulang": [],
+  "minggu_gagal": {
+   "suhu": 23,
+   "rh": 0,
+   "tekanan": 5,
+   "angin": 14,
+   "arah": 0
+  },
+  "isi_slot": {
+   "met_isi_suhu": 22608,
+   "met_isi_rh": 0,
+   "met_isi_tekanan": 4464,
+   "met_isi_angin": 13536,
+   "met_isi_arah": 0
+  }
+ },
+ "semarang": {
+  "c_tekanan": -0.535,
+  "synop_dibuang": {
+   "tekanan": 13,
+   "suhu": 1,
+   "rh": 1
+  },
+  "sisipan": {
+   "suhu": 2270,
+   "rh": 2174,
+   "tekanan": 411,
+   "angin": 1813,
+   "angin_knot": 4
+  },
+  "lonjakan_angin_dibuang": 1,
+  "fraksi_dari_synop_latih": {
+   "suhu": 0.112,
+   "rh": 0.135,
+   "tekanan": 0.097,
+   "angin": 0.067
+  },
+  "bangun_ulang": [],
+  "minggu_gagal": {
+   "suhu": 0,
+   "rh": 2,
+   "tekanan": 0,
+   "angin": 4,
+   "arah": 27
+  },
+  "isi_slot": {
+   "met_isi_suhu": 0,
+   "met_isi_rh": 2016,
+   "met_isi_tekanan": 0,
+   "met_isi_angin": 4032,
+   "met_isi_arah": 27216
+  }
+ }
+}

@@ -1,0 +1,218 @@
+{
+ "banten": {
+  "suhu": {
+   "logger": 0.0,
+   "synop": 0.54,
+   "rambat": 0.46,
+   "dibatasi": 3,
+   "kosong": 42
+  },
+  "rh": {
+   "logger": 0.0,
+   "synop": 0.54,
+   "rambat": 0.459,
+   "dibatasi": 0,
+   "kosong": 42
+  },
+  "tekanan": {
+   "logger": 0.904,
+   "synop": 0.05,
+   "rambat": 0.046,
+   "dibatasi": 996,
+   "kosong": 42
+  },
+  "angin": {
+   "logger": 0.927,
+   "synop": 0.059,
+   "rambat": 0.014,
+   "dibatasi": 323,
+   "kosong": 0
+  },
+  "arah": {
+   "aws": 0.999,
+   "synop": 0.0,
+   "tahan": 0.001,
+   "kosong": 42
+  }
+ },
+ "bengkulu": {
+  "suhu": {
+   "logger": 0.977,
+   "synop": 0.013,
+   "rambat": 0.01,
+   "dibatasi": 579,
+   "kosong": 0
+  },
+  "rh": {
+   "logger": 0.987,
+   "synop": 0.007,
+   "rambat": 0.006,
+   "dibatasi": 798,
+   "kosong": 0
+  },
+  "tekanan": {
+   "logger": 0.626,
+   "synop": 0.2,
+   "rambat": 0.174,
+   "dibatasi": 902,
+   "kosong": 0
+  },
+  "angin": {
+   "logger": 0.702,
+   "synop": 0.162,
+   "rambat": 0.136,
+   "dibatasi": 99,
+   "kosong": 0
+  },
+  "arah": {
+   "aws": 0.978,
+   "synop": 0.012,
+   "tahan": 0.01,
+   "kosong": 0
+  }
+ },
+ "jambi": {
+  "suhu": {
+   "logger": 0.0,
+   "synop": 0.999,
+   "rambat": 0.001,
+   "dibatasi": 0,
+   "kosong": 0
+  },
+  "rh": {
+   "logger": 0.0,
+   "synop": 0.999,
+   "rambat": 0.001,
+   "dibatasi": 0,
+   "kosong": 0
+  },
+  "tekanan": {
+   "logger": 0.0,
+   "synop": 0.998,
+   "rambat": 0.002,
+   "dibatasi": 57,
+   "kosong": 0
+  },
+  "angin": {
+   "logger": 0.0,
+   "synop": 0.999,
+   "rambat": 0.001,
+   "dibatasi": 0,
+   "kosong": 0
+  },
+  "arah": {
+   "aws": 0.969,
+   "synop": 0.012,
+   "tahan": 0.019,
+   "kosong": 0
+  }
+ },
+ "jogja": {
+  "suhu": {
+   "logger": 0.998,
+   "synop": 0.002,
+   "rambat": 0.0,
+   "dibatasi": 439,
+   "kosong": 0
+  },
+  "rh": {
+   "logger": 0.997,
+   "synop": 0.003,
+   "rambat": 0.0,
+   "dibatasi": 1159,
+   "kosong": 0
+  },
+  "tekanan": {
+   "logger": 0.878,
+   "synop": 0.069,
+   "rambat": 0.053,
+   "dibatasi": 502,
+   "kosong": 0
+  },
+  "angin": {
+   "logger": 0.996,
+   "synop": 0.004,
+   "rambat": 0.0,
+   "dibatasi": 90,
+   "kosong": 0
+  },
+  "arah": {
+   "aws": 0.997,
+   "synop": 0.001,
+   "tahan": 0.001,
+   "kosong": 42
+  }
+ },
+ "kalbar": {
+  "suhu": {
+   "logger": 0.892,
+   "synop": 0.059,
+   "rambat": 0.049,
+   "dibatasi": 622,
+   "kosong": 0
+  },
+  "rh": {
+   "logger": 0.988,
+   "synop": 0.0,
+   "rambat": 0.012,
+   "dibatasi": 707,
+   "kosong": 0
+  },
+  "tekanan": {
+   "logger": 0.974,
+   "synop": 0.013,
+   "rambat": 0.013,
+   "dibatasi": 7879,
+   "kosong": 0
+  },
+  "angin": {
+   "logger": 0.929,
+   "synop": 0.041,
+   "rambat": 0.029,
+   "dibatasi": 246,
+   "kosong": 0
+  },
+  "arah": {
+   "aws": 0.0,
+   "synop": 0.425,
+   "tahan": 0.575,
+   "kosong": 42
+  }
+ },
+ "semarang": {
+  "suhu": {
+   "logger": 0.979,
+   "synop": 0.011,
+   "rambat": 0.01,
+   "dibatasi": 715,
+   "kosong": 0
+  },
+  "rh": {
+   "logger": 0.97,
+   "synop": 0.017,
+   "rambat": 0.014,
+   "dibatasi": 2107,
+   "kosong": 0
+  },
+  "tekanan": {
+   "logger": 0.985,
+   "synop": 0.002,
+   "rambat": 0.013,
+   "dibatasi": 1624,
+   "kosong": 0
+  },
+  "angin": {
+   "logger": 0.971,
+   "synop": 0.021,
+   "rambat": 0.008,
+   "dibatasi": 403,
+   "kosong": 0
+  },
+  "arah": {
+   "aws": 0.868,
+   "synop": 0.054,
+   "tahan": 0.077,
+   "kosong": 42
+  }
+ }
+}

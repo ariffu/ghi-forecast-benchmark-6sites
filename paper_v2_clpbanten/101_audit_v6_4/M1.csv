@@ -1,0 +1,7 @@
+stasiun,aws_temp_c_isi,aws_temp_c_luar,aws_temp_c_langkah,aws_temp_c_runtun6j,aws_rh_pct_isi,aws_rh_pct_luar,aws_rh_pct_langkah,aws_rh_pct_runtun6j,aws_pressure_hpa_isi,aws_pressure_hpa_luar,aws_pressure_hpa_langkah,aws_pressure_hpa_runtun6j,aws_wind_speed_ms_isi,aws_wind_speed_ms_luar,aws_wind_speed_ms_langkah,aws_wind_speed_ms_runtun6j,aws_rain_mm_isi,aws_rain_mm_luar,aws_rain_mm_langkah
+banten,0.996,0,28,0.004,0.999,0,10,0.0041,0.961,0,407,0.0,0.989,0,0,0.0024,1.0,0,0
+bengkulu,0.99,0,80,0.0,0.993,0,72,0.0443,0.862,0,32,0.0,0.89,0,0,0.0,1.0,0,0
+jambi,0.986,0,98,0.0,0.999,0,10,0.0006,1.0,0,29,0.0,0.999,0,0,0.0194,1.0,0,0
+jogja,1.0,0,18,0.0,1.0,0,53,0.0107,0.958,0,15,0.0,1.0,0,0,0.0,1.0,0,0
+kalbar,0.96,0,25,0.0,0.988,0,10,0.0843,0.987,0,155,0.0,0.976,0,0,0.0,1.0,0,0
+semarang,0.99,0,17,0.0015,0.987,0,18,0.0357,0.987,0,25,0.0,0.993,0,0,0.0008,1.0,0,0
